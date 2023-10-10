@@ -50,4 +50,55 @@ table{
     text-align: center;
     padding: 15px 0;
   }
+h1{
+    padding: 0.1rem 0.2rem;
+  color: #fff;
+  background: #094;
+  -webkit-box-shadow: 5px 5px 0 #007032;
+  box-shadow: 5px 5px 0 #007032;
+}
+#table, #sta{
+    margin-top: 5px;
+    width:100%;
+    border-collapse: collapse;
+    border-spacing: 2;
+}
+h3 {
+    position: relative;
+	padding: 0.1em 0.3em;
+	padding-left: 1.5em;
+	vertical-align: middle;
+	color: #fff;
+	border-radius: 25px 0 0 25px;
+	background: #26a69a;
+  }
+  h3::before {
+	font-size: .9em;
+	position: absolute;
+	top: .25em;
+	left: .5em;
+	margin-right: 8px;
+	content: '●';
+	color: #fff;}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    background-color:rgb(197, 223, 203)
+  }
+  table th{
+    background-color:rgb(157, 227, 175)
+  }
+  table tr{
+    border-bottom: solid 1px black;
+    cursor: pointer;
+  }
   
+  table tr:hover{
+    background-color: rgb(182, 230, 196);
+  }
+  
+  table th,table td{
+    text-align: center;
+    padding: 15px 0;
+  }
