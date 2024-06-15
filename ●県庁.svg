@@ -674,10 +674,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.28"
-     inkscape:cx="2940.1499"
-     inkscape:cy="948.70164"
+     inkscape:cx="2369.3166"
+     inkscape:cy="119.27456"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:snap-smooth-nodes="true"
@@ -2644,12 +2644,12 @@
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';display:inline;fill:#ff0000;stroke-width:0.264583"
-       x="822.27472"
+       x="820.68719"
        y="1658.5648"
        id="text2295-7"><tspan
          sodipodi:role="line"
          id="tspan2293-9"
-         x="822.27472"
+         x="820.68719"
          y="1658.5648"
          style="font-weight:bold;font-size:7.05556px;fill:#ff0000;stroke:#ffffff;stroke-width:0.264583">¥980</tspan></text>
     <text
@@ -4166,7 +4166,7 @@
          y="2038.7155"
          style="font-weight:bold;font-size:7.05556px;fill:#ff0000;stroke:#ffffff;stroke-width:0.264583">¥1150</tspan></text>
     <rect
-       style="display:inline;opacity:1;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;opacity:1;mix-blend-mode:luminosity;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect11160-6-11"
        width="63.499981"
        height="15.875015"
@@ -9164,7 +9164,7 @@
          style="font-weight:bold;fill:#ffffff;stroke-width:0.230135"
          id="tspan11851-1">4</tspan></text>
     <rect
-       style="display:inline;mix-blend-mode:normal;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;mix-blend-mode:overlay;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect11182-2"
        width="52.916901"
        height="15.875"

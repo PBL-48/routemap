@@ -1650,8 +1650,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84896765"
-     inkscape:cx="2079.1227"
-     inkscape:cy="3161.2153"
+     inkscape:cx="3052.0616"
+     inkscape:cy="3463.3398"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -8553,9 +8553,8 @@
        transform="scale(1,-1)" />
     <path
        style="fill:none;stroke:#00ff00;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 611.18749,390.26041 0,14.55209"
-       id="path3723"
-       sodipodi:nodetypes="cc" />
+       d="m 611.18749,390.26041 v 10.58333"
+       id="path3723" />
     <path
        style="fill:none;fill-opacity:1;stroke:#d4ff2a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 699.82292,383.64583 V 411.4203"
@@ -10630,23 +10629,23 @@
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect27358"
-       width="34.726978"
+       width="29.765717"
        height="6.6146126"
-       x="791.10419"
+       x="796.06543"
        y="-33.73439"
        rx="1.3229471"
        ry="1.3229471" />
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="790.84436"
+       x="797.1944"
        y="-28.496325"
        id="text27362"><tspan
          sodipodi:role="line"
          id="tspan27360"
-         x="790.84436"
+         x="797.1944"
          y="-28.496325"
-         style="font-size:5.64444px;stroke-width:0.264583">７条昭和通へ</tspan></text>
+         style="font-size:5.64444px;stroke-width:0.264583">７の昭和へ</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
        d="m 825.50008,-41.010415 h 11.90625"
@@ -11356,7 +11355,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect10060"
        width="109.80206"
-       height="15.87502"
+       height="37.04192"
        x="754.06293"
        y="-402.16669"
        rx="2.6458333"
@@ -11392,6 +11391,54 @@
          x="782.64581"
          y="-391.05396"
          style="font-weight:normal;stroke-width:0.264583">起終点を含む停留所</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="756.70874"
+       y="-380.47064"
+       id="text10988"><tspan
+         sodipodi:role="line"
+         id="tspan10986"
+         x="756.70874"
+         y="-380.47064"
+         style="stroke-width:0.264583">〇の</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="782.64581"
+       y="-380.47064"
+       id="text10992"><tspan
+         sodipodi:role="line"
+         id="tspan10990"
+         x="782.64581"
+         y="-380.47064"
+         style="font-weight:normal;stroke-width:0.264583">〇条　の略<tspan
+   style="font-size:6.35px"
+   id="tspan10994" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="756.70874"
+       y="-369.88733"
+       id="text10998"><tspan
+         sodipodi:role="line"
+         id="tspan10996"
+         x="756.70874"
+         y="-369.88733"
+         style="stroke-width:0.264583">△</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="782.64581"
+       y="-369.88733"
+       id="text11005"><tspan
+         sodipodi:role="line"
+         id="tspan11003"
+         x="782.64581"
+         y="-369.88733"
+         style="font-weight:normal;stroke-width:0.264583">△丁目 の略<tspan
+   style="font-size:6.35px"
+   id="tspan11007">(△:数字単独)</tspan></tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;stroke-opacity:1"
        d="m 642.93752,-256.64584 h 21.16667"
@@ -11406,7 +11453,7 @@
        width="109.80206"
        height="58.208447"
        x="754.06293"
-       y="-375.7084"
+       y="-354.54178"
        rx="2.6458333"
        ry="2.3510294" />
     <rect
@@ -11415,74 +11462,12 @@
        width="34.395435"
        height="9.260376"
        x="751.41705"
-       y="-381.26456"
+       y="-360.09793"
        rx="0"
        ry="0" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4044-3-6-2-5"
-       width="9.2604294"
-       height="9.260417"
-       x="757.36975"
-       y="-369.75516"
-       rx="1.3229166"
-       ry="1.3229166" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;stroke-width:0.264583"
-       x="758.53937"
-       y="-362.44635"
-       id="text4048-9-6-9-5"><tspan
-         sodipodi:role="line"
-         id="tspan4046-0-3-0-2"
-         x="758.53937"
-         y="-362.44635"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.264583">ｘ</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4050-5-7-8-5"
-       width="9.2604294"
-       height="9.260417"
-       x="757.36969"
-       y="-359.17184"
-       rx="1.3229166"
-       ry="1.3229166" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
-       x="758.53931"
-       y="-351.86304"
-       id="text4054-5-7-3-2"><tspan
-         sodipodi:role="line"
-         id="tspan4052-4-3-2-9"
-         x="758.53931"
-         y="-351.86304"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;stroke-width:0.264583">ｘ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="782.11664"
-       y="-362.47897"
-       id="text11121"><tspan
-         sodipodi:role="line"
-         id="tspan11119"
-         x="782.11664"
-         y="-362.47897"
-         style="font-weight:normal;stroke-width:0.264583">起点</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="782.11664"
-       y="-351.89566"
-       id="text11127"><tspan
-         sodipodi:role="line"
-         id="tspan11125"
-         x="782.11664"
-         y="-351.89566"
-         style="font-weight:normal;stroke-width:0.264583">終点</tspan></text>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect11129"
        width="9.2604294"
        height="9.260417"
        x="757.36975"
@@ -11494,65 +11479,127 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;stroke-width:0.264583"
        x="758.53937"
        y="-341.27972"
-       id="text11133"><tspan
+       id="text4048-9-6-9-5"><tspan
          sodipodi:role="line"
-         id="tspan11131"
+         id="tspan4046-0-3-0-2"
          x="758.53937"
          y="-341.27972"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.264583">ｘ</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4050-5-7-8-5"
+       width="9.2604294"
+       height="9.260417"
+       x="757.36969"
+       y="-338.00522"
+       rx="1.3229166"
+       ry="1.3229166" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="758.53931"
+       y="-330.69641"
+       id="text4054-5-7-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan4052-4-3-2-9"
+         x="758.53931"
+         y="-330.69641"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;stroke-width:0.264583">ｘ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="782.11664"
        y="-341.31235"
+       id="text11121"><tspan
+         sodipodi:role="line"
+         id="tspan11119"
+         x="782.11664"
+         y="-341.31235"
+         style="font-weight:normal;stroke-width:0.264583">起点</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="782.11664"
+       y="-330.72903"
+       id="text11127"><tspan
+         sodipodi:role="line"
+         id="tspan11125"
+         x="782.11664"
+         y="-330.72903"
+         style="font-weight:normal;stroke-width:0.264583">終点</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11129"
+       width="9.2604294"
+       height="9.260417"
+       x="757.36975"
+       y="-327.42191"
+       rx="1.3229166"
+       ry="1.3229166" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;stroke-width:0.264583"
+       x="758.53937"
+       y="-320.1131"
+       id="text11133"><tspan
+         sodipodi:role="line"
+         id="tspan11131"
+         x="758.53937"
+         y="-320.1131"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.264583">ｘ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="782.11664"
+       y="-320.14572"
        id="text11137"><tspan
          sodipodi:role="line"
          id="tspan11135"
          x="782.11664"
-         y="-341.31235"
+         y="-320.14572"
          style="font-weight:normal;stroke-width:0.264583">経由</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;stroke-width:0.264583"
        x="770.84698"
-       y="-325.45123"
+       y="-304.28461"
        id="text29172-0-8-0-3-5-6"><tspan
          sodipodi:role="line"
          id="tspan29170-0-0-3-7-0-7"
          x="770.84698"
-         y="-325.45123"
+         y="-304.28461"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.264583">ｙ</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;stroke-width:0.264583"
        x="760.26367"
-       y="-325.45123"
+       y="-304.28461"
        id="text4048-7-4-7-0-4"><tspan
          sodipodi:role="line"
          id="tspan4046-3-6-0-0-2"
          x="760.26367"
-         y="-325.45123"
+         y="-304.28461"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';stroke-width:0.264583">ｘ</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 767.03161,-324.16113 v -7.9375 h -5.29167 v -1.98439 l -4.63023,5.95314 4.63021,5.29166 v -1.32291 z"
+       d="m 767.03161,-302.99445 v -7.9375 h -5.29167 v -1.98439 l -4.63023,5.95314 4.63021,5.29166 v -1.32291 z"
        id="path11626-0-42-9-0"
        sodipodi:nodetypes="cccccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 771.0003,-324.16113 v -7.9375 h 5.29168 v -1.98439 l 4.63023,5.95314 -4.63021,5.29166 v -1.32291 z"
+       d="m 771.0003,-302.99445 v -7.9375 h 5.29168 v -1.98439 l 4.63023,5.95314 -4.63021,5.29166 v -1.32291 z"
        id="path11660-0-5-1"
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="782.11664"
-       y="-325.43738"
+       y="-304.27075"
        id="text11171"><tspan
          sodipodi:role="line"
          id="tspan11169"
          x="782.11664"
-         y="-325.43738"
+         y="-304.27075"
          style="font-weight:normal;stroke-width:0.264583">方向</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
@@ -11965,8 +12012,8 @@
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4839"
-       width="54.901062"
-       height="8.4375"
+       width="38.364594"
+       height="8.4374952"
        x="461.03647"
        y="171.47917"
        rx="1.3229065"
@@ -11987,8 +12034,8 @@
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3818"
-       width="9.260437"
-       height="55.033367"
+       width="9.260417"
+       height="38.364582"
        x="562.23962"
        y="323.3208"
        rx="1.3229065"
@@ -12005,10 +12052,10 @@
     <rect
        style="opacity:1;fill:#ffffff;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3626"
-       width="15.87501"
-       height="31.74999"
-       x="653.52087"
-       y="322.79166"
+       width="9.5911694"
+       height="38.364582"
+       x="656.96039"
+       y="321.46875"
        rx="1.3229166"
        ry="1.3229166" />
     <rect
@@ -12023,9 +12070,9 @@
     <rect
        style="opacity:1;fill:#ffffff;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3653"
-       width="15.87499"
-       height="33.072922"
-       x="552.97919"
+       width="9.260437"
+       height="39.6875"
+       x="559.59375"
        y="210.34375"
        rx="1.3229166"
        ry="1.3229166" />
@@ -12047,7 +12094,7 @@
        style="opacity:1;fill:#ffffff;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3653-8"
        width="9.260437"
-       height="56.88538"
+       height="39.6875"
        x="588.69794"
        y="96.572952"
        rx="1.3229166"
@@ -12063,7 +12110,7 @@
          x="96.768387"
          y="593.46051"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡４条６丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡４の６</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#808080;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3651-7-1"
@@ -12078,7 +12125,7 @@
        style="opacity:1;fill:#ffffff;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3653-8-0"
        width="9.260437"
-       height="59.531254"
+       height="39.6875"
        x="-470.6937"
        y="-9.2604189"
        rx="1.3229166"
@@ -12096,9 +12143,9 @@
     <rect
        style="opacity:1;fill:#ffffff;stroke:#808080;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3653-8-7"
-       width="16.933319"
+       width="9.260437"
        height="39.6875"
-       x="579.4375"
+       x="587.11047"
        y="-97.102043"
        rx="1.3229166"
        ry="1.3229166" />
@@ -13341,7 +13388,7 @@
        id="rect27612-2"
        width="5.2916698"
        height="10.583415"
-       x="-155.04582"
+       x="-148.16667"
        y="38.364544"
        rx="2.6458333"
        ry="2.3510296" />
@@ -14164,7 +14211,7 @@
        ry="2.3510296" />
     <g
        id="g33479"
-       transform="translate(-166.04902,-474.51008)">
+       transform="translate(-174.51568,-474.51008)">
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:1.05;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -16083,13 +16130,13 @@
        id="rect22192-3"
        width="5.291687"
        height="21.166687"
-       x="202.93542"
+       x="205.05206"
        y="2.6458132"
        rx="2.6458333"
        ry="2.3510296" />
     <g
        id="g30156-9"
-       transform="translate(254.37393,-404.65542)">
+       transform="translate(256.49061,-404.65542)">
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -16116,7 +16163,7 @@
     </g>
     <g
        id="g7234"
-       transform="translate(263.89893,-399.36375)">
+       transform="translate(267.07395,-399.36375)">
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -16125,8 +16172,8 @@
          id="text7228"><tspan
            sodipodi:role="line"
            id="tspan7226"
-           x="362.78238"
-           y="-48.947937"
+           x="368.07404"
+           y="-54.239605"
            style="writing-mode:tb-rl;stroke-width:0.264583"
            rotate="0 0 0 0 0 0 0 0">６条   丁目</tspan></text>
       <text
@@ -16387,11 +16434,16 @@
        y="57.466763"
        id="text33771-4"><tspan
          sodipodi:role="line"
-         x="57.466759"
-         y="221.47496"
+         id="tspan33769-1"
+         x="5.8445182"
+         y="273.0972"
+         style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583">    ４条</tspan><tspan
+         sodipodi:role="line"
+         x="5.8445182"
+         y="266.50027"
          style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0"
-         id="tspan6666">    ４条９丁目</tspan></text>
+         rotate="0 0 0 0"
+         id="tspan6666">９丁目</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect7224-8"
@@ -16487,7 +16539,7 @@
        id="rect9906"
        width="5.291687"
        height="21.166687"
-       x="211.93121"
+       x="215.63541"
        y="2.6458132"
        rx="2.6458333"
        ry="2.3510296" />
@@ -17863,7 +17915,7 @@
        id="rect15593-7"
        width="5.2916698"
        height="10.583415"
-       x="327.81879"
+       x="332.05209"
        y="373.06238"
        rx="2.6458333"
        ry="2.3510296" />
@@ -18125,10 +18177,10 @@
        ry="2.6458349" />
     <g
        id="g16043-9"
-       transform="translate(396.28764,-81.86374)">
+       transform="translate(388.87929,-81.86374)">
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:1.05;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
          x="-48.889721"
          y="360.24741"
          id="text16037-3"><tspan
@@ -18137,23 +18189,17 @@
            y="-48.889721"
            style="writing-mode:tb-rl;stroke-width:0.264583"
            rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
-           id="tspan16035-7">南６条</tspan><tspan
-           sodipodi:role="line"
-           x="360.24741"
-           y="-57.038876"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-           id="tspan6346">       丁目</tspan></text>
+           id="tspan16035-7">南６の</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-62.203182"
-         y="375.14038"
+         x="-53.736511"
+         y="389.957"
          id="text16041-4"><tspan
            sodipodi:role="line"
            id="tspan16039-8"
-           x="-62.203182"
-           y="375.14038"
+           x="-53.736511"
+           y="389.957"
            style="stroke-width:0.264583">19</tspan></text>
     </g>
     <rect
@@ -18162,7 +18208,7 @@
        width="5.2916698"
        height="5.2916718"
        x="357.1875"
-       y="273.5791"
+       y="277.8125"
        rx="2.6458349"
        ry="2.6458349" />
     <rect
@@ -18178,23 +18224,13 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="362.93289"
-       y="279.12372"
+       y="283.35712"
        id="text3638"><tspan
          sodipodi:role="line"
          x="362.93289"
-         y="279.12372"
+         y="283.35712"
          style="stroke-width:0.264583"
-         id="tspan3640">南１条</tspan><tspan
-         sodipodi:role="line"
-         x="362.93289"
-         y="285.72064"
-         style="stroke-width:0.264583"
-         id="tspan6350">20丁目</tspan><tspan
-         sodipodi:role="line"
-         x="362.93289"
-         y="292.3176"
-         style="stroke-width:0.264583"
-         id="tspan6348" /></text>
+         id="tspan3640">南１の20</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -18205,12 +18241,7 @@
          x="362.93289"
          y="293.94043"
          style="stroke-width:0.264583"
-         id="tspan3644">南５条</tspan><tspan
-         sodipodi:role="line"
-         x="362.93289"
-         y="300.53735"
-         style="stroke-width:0.264583"
-         id="tspan6352">20丁目</tspan></text>
+         id="tspan3644">南５の20</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3648"
@@ -18271,7 +18302,7 @@
        width="5.2918801"
        height="5.2916565"
        x="432.59366"
-       y="322.79169"
+       y="328.08334"
        rx="2.6458282"
        ry="2.6458282" />
     <rect
@@ -18304,7 +18335,7 @@
        transform="translate(473.54601,-44.822071)">
       <text
          xml:space="preserve"
-         style="font-size:7.7611px;line-height:1.05;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
          x="-48.889721"
          y="360.24741"
          id="text3691"><tspan
@@ -18313,23 +18344,17 @@
            y="-48.889721"
            style="writing-mode:tb-rl;stroke-width:0.264583"
            rotate="0 0 0 0 0 0 0 0 0 0 0 0 0"
-           id="tspan3689">南６条</tspan><tspan
-           sodipodi:role="line"
-           x="360.24741"
-           y="-57.038876"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-           id="tspan6330">   丁目</tspan></text>
+           id="tspan3689">南６の</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-62.203182"
-         y="366.67368"
+         x="-53.736511"
+         y="389.957"
          id="text3695"><tspan
            sodipodi:role="line"
            id="tspan3693"
-           x="-62.203182"
-           y="366.67368"
+           x="-53.736511"
+           y="389.957"
            style="stroke-width:0.264583">26</tspan></text>
     </g>
     <rect
@@ -18356,18 +18381,13 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="438.86807"
-       y="328.33624"
+       y="333.6279"
        id="text3767"><tspan
          sodipodi:role="line"
          id="tspan3765"
          x="438.86807"
-         y="328.33624"
-         style="stroke-width:0.264583">東光８条</tspan><tspan
-         sodipodi:role="line"
-         x="438.86807"
-         y="334.93317"
-         style="stroke-width:0.264583"
-         id="tspan6324">１丁目</tspan></text>
+         y="333.6279"
+         style="stroke-width:0.264583">東光８の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -18378,12 +18398,7 @@
          id="tspan3769"
          x="438.86807"
          y="344.21121"
-         style="stroke-width:0.264583">東光12条</tspan><tspan
-         sodipodi:role="line"
-         x="438.86807"
-         y="350.80814"
-         style="stroke-width:0.264583"
-         id="tspan6326">２丁目</tspan></text>
+         style="stroke-width:0.264583">東光12の２</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3795"
@@ -18404,12 +18419,7 @@
          id="tspan3819"
          x="439.39725"
          y="360.08618"
-         style="stroke-width:0.264583">旭神２条</tspan><tspan
-         sodipodi:role="line"
-         x="439.39725"
-         y="366.68311"
-         style="stroke-width:0.264583"
-         id="tspan6328">３丁目</tspan></text>
+         style="stroke-width:0.264583">旭神２の３</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3842"
@@ -18717,21 +18727,16 @@
        transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="38.616348"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="-7.2457752"
        y="557.46948"
        id="text4177"
        transform="rotate(-45)"><tspan
          sodipodi:role="line"
          id="tspan4175"
-         x="38.616348"
+         x="-7.2457752"
          y="557.46948"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583">神楽岡１条</tspan><tspan
-         sodipodi:role="line"
-         x="38.616348"
-         y="564.06641"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6322">５丁目</tspan></text>
+         style="stroke-width:0.264583">神楽岡１の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -18743,12 +18748,7 @@
          id="tspan4197"
          x="66.467163"
          y="621.45361"
-         style="stroke-width:0.264583">旭神２条</tspan><tspan
-         sodipodi:role="line"
-         x="66.467163"
-         y="628.05054"
-         style="stroke-width:0.264583"
-         id="tspan6332">２丁目</tspan></text>
+         style="stroke-width:0.264583">旭神２の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -18760,12 +18760,7 @@
          id="tspan4201"
          x="66.467163"
          y="636.42065"
-         style="stroke-width:0.264583">旭神２条</tspan><tspan
-         sodipodi:role="line"
-         x="66.467163"
-         y="643.01758"
-         style="stroke-width:0.264583"
-         id="tspan6334">５丁目</tspan></text>
+         style="stroke-width:0.264583">旭神２の５</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4205"
@@ -18782,32 +18777,27 @@
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-48.573761"
-         y="339.85126"
+         x="-48.947937"
+         y="352.19907"
          id="text4033-1"><tspan
            sodipodi:role="line"
            id="tspan4031-3"
-           x="339.85126"
-           y="-48.573761"
+           x="352.19907"
+           y="-48.947937"
            style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0">旭神３条５丁目</tspan></text>
+           rotate="0 0 0 0 0 0">旭神３の５</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="375.26172"
-       y="263.75076"
+       x="367.32428"
+       y="270.10077"
        id="text4312"><tspan
          sodipodi:role="line"
          id="tspan4310"
-         x="375.26172"
-         y="263.75076"
-         style="stroke-width:0.264583">南３条</tspan><tspan
-         sodipodi:role="line"
-         x="375.26172"
-         y="270.34769"
-         style="stroke-width:0.264583"
-         id="tspan6354">23丁目</tspan></text>
+         x="367.32428"
+         y="270.10077"
+         style="stroke-width:0.264583">南３の23</tspan></text>
     <g
        id="g4324"
        transform="rotate(-45,279.71902,-184.81667)">
@@ -18829,7 +18819,7 @@
        id="rect4356"
        width="5.2916565"
        height="21.166647"
-       x="474.92682"
+       x="485.51013"
        y="298.97916"
        rx="2.6458282"
        ry="2.3510296" />
@@ -18903,32 +18893,32 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="432.62091"
-       y="143.52165"
+       y="159.39667"
        id="text31868-7"><tspan
          sodipodi:role="line"
          id="tspan31866-7"
-         x="148.81332"
-         y="427.32925"
+         x="159.39667"
+         y="432.62091"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">東光１条１丁目</tspan></text>
+         rotate="0 0 0 0 0 0">東光１の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="441.88132"
-       y="143.52165"
+       y="159.39667"
        id="text4443"><tspan
          sodipodi:role="line"
          id="tspan4441"
-         x="148.81332"
-         y="436.58966"
+         x="159.39667"
+         y="441.88132"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡１条１丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡１の１</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4445"
        width="5.2916565"
        height="15.874959"
-       x="490.80179"
+       x="496.09344"
        y="298.97916"
        rx="2.6456757"
        ry="2.3510296" />
@@ -18938,7 +18928,7 @@
        width="10.583323"
        height="5.2916565"
        x="510.64584"
-       y="275.16666"
+       y="280.45831"
        rx="2.6458282"
        ry="2.6458282" />
     <rect
@@ -18965,7 +18955,7 @@
        width="10.583323"
        height="5.2916565"
        x="510.64584"
-       y="259.29169"
+       y="264.58334"
        rx="2.6458282"
        ry="2.6458282" />
     <rect
@@ -18979,52 +18969,37 @@
        ry="2.6458282" />
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="451.92947"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="414.63458"
        y="275.35361"
        id="text4474"><tspan
          sodipodi:role="line"
          id="tspan4472"
-         x="451.92947"
+         x="414.63458"
          y="275.35361"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583">東光３条</tspan><tspan
-         sodipodi:role="line"
-         x="451.92947"
-         y="281.95053"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6342">１丁目</tspan></text>
+         style="stroke-width:0.264583">東光３の１</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="451.92947"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="414.63458"
        y="291.22858"
        id="text4478"><tspan
          sodipodi:role="line"
          id="tspan4476"
-         x="451.92947"
+         x="414.63458"
          y="291.22858"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583">東光６条</tspan><tspan
-         sodipodi:role="line"
-         x="451.92947"
-         y="297.8255"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6344">１丁目</tspan></text>
+         style="stroke-width:0.264583">東光６の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
        x="509.20682"
-       y="264.36603"
+       y="269.65768"
        id="text4482"><tspan
          sodipodi:role="line"
          x="509.20682"
-         y="264.36603"
+         y="269.65768"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4484">東光４条</tspan><tspan
-         sodipodi:role="line"
-         x="509.20682"
-         y="270.96295"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6356">３丁目</tspan></text>
+         id="tspan4484">東光４の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -19040,18 +19015,13 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
        x="509.20682"
-       y="280.241"
+       y="285.53265"
        id="text4496"><tspan
          sodipodi:role="line"
          x="509.20682"
-         y="280.241"
+         y="285.53265"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4506">東光７条</tspan><tspan
-         sodipodi:role="line"
-         x="509.20682"
-         y="286.83792"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6359">３丁目</tspan></text>
+         id="tspan4506">東光７の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -19086,7 +19056,7 @@
        id="rect4622"
        width="5.291687"
        height="47.625"
-       x="428.88925"
+       x="435.23926"
        y="63.5"
        rx="2.4931984"
        ry="2.3510296" />
@@ -19095,7 +19065,7 @@
        id="rect4624"
        width="5.291687"
        height="42.333332"
-       x="473.07498"
+       x="476.24994"
        y="63.500015"
        rx="2.4931984"
        ry="2.3510296" />
@@ -19111,41 +19081,36 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="477.57294"
+       x="488.15625"
        y="320.92444"
        id="text4630"><tspan
          sodipodi:role="line"
          id="tspan4628"
-         x="315.63278"
-         y="482.86459"
+         x="320.92444"
+         y="488.15625"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">東光９条２丁目</tspan></text>
+         rotate="0 0 0 0 0 0">東光９の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="493.44791"
+       x="498.73956"
        y="320.92444"
        id="text4634"><tspan
          sodipodi:role="line"
          id="tspan4632"
-         x="326.21609"
-         y="488.15625"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光   条</tspan><tspan
-         sodipodi:role="line"
-         x="326.21609"
-         y="481.55933"
+         x="320.92444"
+         y="498.73956"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6336">３丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="488.50412"
+       x="493.79578"
        y="342.55783"
        id="text3545-0"><tspan
          sodipodi:role="line"
          id="tspan3543-1"
-         x="488.50412"
+         x="493.79578"
          y="342.55783"
          style="stroke-width:0.264583">10</tspan></text>
     <rect
@@ -19167,13 +19132,8 @@
          id="tspan4656"
          x="320.92444"
          y="509.32288"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光   条</tspan><tspan
-         sodipodi:role="line"
-         x="320.92444"
-         y="502.72595"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6338">３丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19204,52 +19164,32 @@
          id="tspan4680"
          x="24.688122"
          y="437.88538"
-         style="writing-mode:tb-rl;stroke-width:0.264583">豊岡４条</tspan><tspan
-         sodipodi:role="line"
-         x="24.688122"
-         y="431.28845"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan6219">       １丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡４の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="482.07089"
+       x="478.89584"
        y="24.688122"
        id="text4686"><tspan
          sodipodi:role="line"
-         x="25.217289"
-         y="481.54172"
+         id="tspan4684"
+         x="24.688122"
+         y="478.89584"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         id="tspan6222"><tspan
-           id="tspan6224"
-           style="writing-mode:tb-rl;stroke-width:0.264583">豊岡４条</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="25.217289"
-         y="474.94479"
-         style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan6226"><tspan
-           rotate="0 0 0 0 0 0 0 0 0 0 0"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           id="tspan6228">       ２丁目</tspan></tspan></text>
+         rotate="0 0 0 0 0 0">豊岡４の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="495.82907"
+       x="489.47916"
        y="24.688122"
        id="text4690"><tspan
          sodipodi:role="line"
          id="tspan4688"
-         x="24.158955"
-         y="496.35825"
-         style="writing-mode:tb-rl;stroke-width:0.264583">豊岡４条</tspan><tspan
-         sodipodi:role="line"
-         x="24.158955"
-         y="489.76132"
+         x="24.688122"
+         y="489.47916"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan6230">       ３丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡４の３</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4692"
@@ -19269,13 +19209,8 @@
          id="tspan4694"
          x="320.92444"
          y="535.78131"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光   条</tspan><tspan
-         sodipodi:role="line"
-         x="320.92444"
-         y="529.18439"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6340">４丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19316,7 +19251,7 @@
          x="210.01003"
          y="533.13538"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">東光１条４丁目</tspan></text>
+         rotate="0 0 0 0 0 0">東光１の４</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3842-7"
@@ -19329,21 +19264,16 @@
        transform="rotate(45)" />
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="242.54367"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="204.04352"
        y="424.71738"
        id="text4127-8"
        transform="rotate(-45)"><tspan
          sodipodi:role="line"
          id="tspan4125-7"
-         x="242.54367"
+         x="204.04352"
          y="424.71738"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583">豊岡３条</tspan><tspan
-         sodipodi:role="line"
-         x="242.54367"
-         y="431.3143"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6393">２丁目</tspan></text>
+         style="stroke-width:0.264583">豊岡３の２</tspan></text>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 499.25841,140.01199 3.74177,-3.74177 -7.48354,-3.74178 3.74177,7.48355 3.74177,-3.74177"
@@ -19399,7 +19329,7 @@
          id="tspan4828"
          x="461.35474"
          y="178.36798"
-         style="stroke-width:0.264583">豊岡２条３丁目</tspan></text>
+         style="stroke-width:0.264583">豊岡２の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19410,13 +19340,8 @@
          id="tspan4915"
          x="210.53918"
          y="564.35632"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光２条</tspan><tspan
-         sodipodi:role="line"
-         x="210.53918"
-         y="557.7594"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6380">５丁目</tspan></text>
+         rotate="0 0 0 0 0 0">東光２の５</tspan></text>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 574.14583,212.98958 h 5.29167 l -2.64583,7.9375 -2.64584,-7.9375 h 5.29167"
@@ -19427,7 +19352,7 @@
        width="5.2918801"
        height="5.2916565"
        x="574.14575"
-       y="248.70831"
+       y="253.99998"
        rx="2.6458232"
        ry="2.6458232" />
     <rect
@@ -19436,7 +19361,7 @@
        width="5.2918801"
        height="5.2916565"
        x="574.14575"
-       y="261.40826"
+       y="264.58331"
        rx="2.6458232"
        ry="2.6458232" />
     <rect
@@ -19452,34 +19377,24 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
        x="572.70703"
-       y="253.7827"
+       y="259.07437"
        id="text4942"><tspan
          sodipodi:role="line"
          x="572.70703"
-         y="253.7827"
+         y="259.07437"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4940">東光６条</tspan><tspan
-         sodipodi:role="line"
-         x="572.70703"
-         y="260.37964"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6369">５丁目</tspan></text>
+         id="tspan4940">東光６の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
        x="572.70703"
-       y="266.48264"
+       y="269.65768"
        id="text4946"><tspan
          sodipodi:role="line"
          x="572.70703"
-         y="266.48264"
+         y="269.65768"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4944">東光９条</tspan><tspan
-         sodipodi:role="line"
-         x="572.70703"
-         y="273.07956"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6372">５丁目</tspan></text>
+         id="tspan4944">東光９の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -19490,12 +19405,7 @@
          x="572.70703"
          y="280.241"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4948">東光13条</tspan><tspan
-         sodipodi:role="line"
-         x="572.70703"
-         y="286.83792"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6376">５丁目</tspan></text>
+         id="tspan4948">東光13の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19507,7 +19417,7 @@
          x="324.0994"
          y="567.00226"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">東光   条５丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19524,7 +19434,7 @@
        id="rect4962"
        width="5.2916565"
        height="21.166647"
-       x="474.92682"
+       x="485.51013"
        y="298.97916"
        rx="2.6458282"
        ry="2.3510296" />
@@ -19616,7 +19526,7 @@
          x="321.189"
          y="604.57324"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">東光   条６丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の６</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19735,8 +19645,8 @@
          x="452.17502"
          y="596.56946"
          style="font-weight:bold;writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan16035-7-4">ひじり野１条   丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan16035-7-4">ひじり野１の</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19758,8 +19668,8 @@
          x="452.17502"
          y="628.31958"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan3792">ひじり野１条７丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan3792">ひじり野１の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19770,8 +19680,8 @@
          x="452.17502"
          y="660.06964"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan3796">ひじり野１条５丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan3796">ひじり野１の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -19782,8 +19692,8 @@
          x="452.17502"
          y="712.98645"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan3800">ひじり野１条１丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan3800">ひじり野１の１</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3808"
@@ -19899,37 +19809,27 @@
          x="594.40277"
          y="391.36603"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6303">東光19条</tspan><tspan
-         sodipodi:role="line"
-         x="594.40277"
-         y="397.96295"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6311">５丁目</tspan></text>
+         id="tspan4948-3">東光19の５</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3899"
        width="5.2918801"
        height="5.2916565"
        x="608.5415"
-       y="402.96039"
+       y="398.19791"
        rx="2.6458232"
        ry="2.6458232" />
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.264583"
-       x="614.51196"
-       y="408.03476"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+       x="655.25708"
+       y="403.27228"
        id="text3903"><tspan
          sodipodi:role="line"
-         x="614.51196"
-         y="408.03476"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan3901">東光23条</tspan><tspan
-         sodipodi:role="line"
-         x="614.51196"
-         y="414.63168"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan6317">５丁目</tspan></text>
+         x="655.25708"
+         y="403.27228"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan3901">東光23の５</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3905"
@@ -19941,20 +19841,15 @@
        ry="2.6458232" />
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;word-spacing:0px;text-anchor:start;stroke-width:0.264583"
-       x="614.51196"
-       y="393.21814"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
+       x="655.25708"
+       y="392.68896"
        id="text3909"><tspan
          sodipodi:role="line"
-         x="614.51196"
-         y="393.21814"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan3907">東光22条</tspan><tspan
-         sodipodi:role="line"
-         x="614.51196"
-         y="399.81506"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan6315">６丁目</tspan></text>
+         x="655.25708"
+         y="392.68896"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583"
+         id="tspan3907">東光22の６</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3943"
@@ -19983,13 +19878,8 @@
          id="tspan4954-5"
          x="384.15973"
          y="662.78522"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光   条</tspan><tspan
-         sodipodi:role="line"
-         x="384.15973"
-         y="656.18829"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6320">９丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の９</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -20016,12 +19906,7 @@
          x="636.91205"
          y="349.01501"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3506">20条</tspan><tspan
-         sodipodi:role="line"
-         x="636.91205"
-         y="355.61197"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6361">８丁目</tspan></text>
+         id="tspan3506">20の８</tspan></text>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 634.99995,314.85417 v -5.29167 l -7.9375,2.64583 7.9375,2.64584 v -5.29167"
@@ -20101,62 +19986,52 @@
          x="606.62274"
          y="281.5463"
          style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan3661">12条</tspan><tspan
-         sodipodi:role="line"
-         x="606.62274"
-         y="288.14325"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan6391">６丁目</tspan></text>
+         id="tspan3661">12の６</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="710.29089"
+       x="695.47418"
        y="286.591"
        id="text3606"><tspan
          sodipodi:role="line"
-         x="710.29089"
+         x="695.47418"
          y="286.591"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3604">東光13条７丁目</tspan></text>
+         id="tspan3604">東光13の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="660.48376"
-       y="343.88074"
+       x="656.7796"
+       y="343.35156"
        id="text3618"><tspan
          sodipodi:role="line"
          id="tspan3616"
-         x="660.48376"
-         y="343.88074"
+         x="656.7796"
+         y="343.35156"
          style="stroke-width:0.264583">16</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.7611px;line-height:0.95;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="665.42761"
-       y="322.24734"
+       style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+       x="661.72345"
+       y="321.71817"
        id="text3622"><tspan
          sodipodi:role="line"
          id="tspan3620"
-         x="322.24734"
-         y="665.42761"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光   条</tspan><tspan
-         sodipodi:role="line"
-         x="322.24734"
-         y="658.05457"
+         x="321.71817"
+         y="661.72345"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6363">７丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="708.42627"
+       x="693.60956"
        y="276.67654"
        id="text3630"><tspan
          sodipodi:role="line"
-         x="708.42627"
+         x="693.60956"
          y="276.67654"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3628">東光９条７丁目</tspan></text>
+         id="tspan3628">東光９の７</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3633"
@@ -20181,12 +20056,7 @@
          x="607.42706"
          y="260.37967"
          style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan3657">５条</tspan><tspan
-         sodipodi:role="line"
-         x="607.42706"
-         y="266.97659"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan6385">６丁目</tspan></text>
+         id="tspan3657">５の６</tspan></text>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 579.93751,203.72917 v -5.29167 l 7.9375,2.64583 -7.9375,2.64584 v -5.29167"
@@ -20218,49 +20088,39 @@
          x="606.19507"
          y="137.88667"
          style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan3815">豊岡１条</tspan><tspan
-         sodipodi:role="line"
-         x="606.19507"
-         y="144.48361"
-         style="text-align:start;text-anchor:start;stroke-width:0.264583"
-         id="tspan6298">６丁目</tspan></text>
+         id="tspan3815">豊岡１の６</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3751"
        width="5.2916565"
        height="21.166647"
-       x="681.30237"
+       x="676.01068"
        y="298.97916"
        rx="2.6458282"
        ry="2.3510296" />
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="679.0047"
+       x="673.71301"
        y="342.82239"
        id="text3755"><tspan
          sodipodi:role="line"
          id="tspan3753"
-         x="679.0047"
+         x="673.71301"
          y="342.82239"
          style="stroke-width:0.264583">17</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="683.94855"
+       x="678.65686"
        y="321.189"
        id="text3759"><tspan
          sodipodi:role="line"
          id="tspan3757"
-         x="326.48065"
+         x="321.189"
          y="678.65686"
-         style="writing-mode:tb-rl;stroke-width:0.264583">東光   条</tspan><tspan
-         sodipodi:role="line"
-         x="326.48065"
-         y="672.05994"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0"
-         id="tspan6365">９丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">東光   の９</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3771"
@@ -20283,14 +20143,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="709.48462"
+       x="693.60956"
        y="189.36397"
        id="text3811"><tspan
          sodipodi:role="line"
-         x="709.48462"
+         x="693.60956"
          y="189.36397"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3809">東光６条７丁目</tspan></text>
+         id="tspan3809">東光６の７</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3817"
@@ -20303,14 +20163,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="709.48462"
+       x="693.60956"
        y="168.19728"
        id="text3822"><tspan
          sodipodi:role="line"
-         x="709.48462"
+         x="693.60956"
          y="168.19728"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3820">東光３条７丁目</tspan></text>
+         id="tspan3820">東光３の７</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3824"
@@ -20323,14 +20183,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="709.48462"
+       x="693.60956"
        y="152.32227"
        id="text3828"><tspan
          sodipodi:role="line"
-         x="709.48462"
+         x="693.60956"
          y="152.32227"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3826">豊岡２条７丁目</tspan></text>
+         id="tspan3826">豊岡２の７</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3832"
@@ -20343,14 +20203,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="709.48462"
+       x="693.60956"
        y="109.98891"
        id="text3836"><tspan
          sodipodi:role="line"
-         x="709.48462"
+         x="693.60956"
          y="109.98891"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3834">豊岡４条７丁目</tspan></text>
+         id="tspan3834">豊岡４の７</tspan></text>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 606.39586,95.25 v -5.291667 l 7.9375,2.645827 -7.9375,2.64584 v -5.291667"
@@ -20381,20 +20241,15 @@
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-28.026455"
+         x="-34.37645"
          y="357.76236"
          id="text3681-1-7"><tspan
            sodipodi:role="line"
            id="tspan3679-6-6"
-           x="357.23318"
-           y="-27.497288"
-           style="writing-mode:tb-rl;stroke-width:0.264583">東光８条</tspan><tspan
-           sodipodi:role="line"
-           x="357.23318"
-           y="-34.094223"
+           x="357.76236"
+           y="-34.37645"
            style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0"
-           id="tspan6300">       ９丁目</tspan></text>
+           rotate="0 0 0 0 0 0">東光８の９</tspan></text>
     </g>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -20436,7 +20291,7 @@
          x="96.425934"
          y="560.91693"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡４条４丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡４の４</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3606-3"
@@ -20457,7 +20312,7 @@
          x="96.425934"
          y="571.50031"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡４条５丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡４の５</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4120"
@@ -20479,14 +20334,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="393.12961"
+       x="410.5921"
        y="13.532551"
        id="text4367-7"><tspan
          sodipodi:role="line"
          id="tspan4365-8"
-         x="393.12961"
+         x="410.5921"
          y="13.532551"
-         style="stroke-width:0.264583">豊岡５条１丁目</tspan></text>
+         style="stroke-width:0.264583">豊岡５の１</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4793-1"
@@ -20505,6 +20360,60 @@
        y="-22.489624"
        rx="2.6458333"
        ry="2.3510296" />
+    <g
+       id="g4246"
+       transform="translate(441.72999,-413.91582)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-48.947937"
+         y="368.07404"
+         id="text4240"><tspan
+           sodipodi:role="line"
+           id="tspan4238"
+           x="368.07404"
+           y="-48.947937"
+           style="writing-mode:tb-rl;stroke-width:0.264583"
+           rotate="0 0 0">８の</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-53.736511"
+         y="389.957"
+         id="text4244"><tspan
+           sodipodi:role="line"
+           id="tspan4242"
+           x="-53.736511"
+           y="389.957"
+           style="stroke-width:0.264583">22</tspan></text>
+    </g>
+    <g
+       id="g4256"
+       transform="translate(468.18834,-413.91582)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-48.947937"
+         y="368.07404"
+         id="text4250"><tspan
+           sodipodi:role="line"
+           id="tspan4248"
+           x="368.07404"
+           y="-48.947937"
+           style="writing-mode:tb-rl;stroke-width:0.264583"
+           rotate="0 0 0">８の</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-53.736511"
+         y="389.957"
+         id="text4254"><tspan
+           sodipodi:role="line"
+           id="tspan4252"
+           x="-53.736511"
+           y="389.957"
+           style="stroke-width:0.264583">24</tspan></text>
+    </g>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 441.85417,-17.197915 v -5.29167 l 7.9375,2.64583 -7.9375,2.64584 v -5.29167"
@@ -20548,12 +20457,7 @@
          id="tspan4828-6"
          x="543.64014"
          y="41.313797"
-         style="stroke-width:0.264583">豊岡５条</tspan><tspan
-         sodipodi:role="line"
-         x="543.64014"
-         y="47.910732"
-         style="stroke-width:0.264583"
-         id="tspan6286">４丁目</tspan></text>
+         style="stroke-width:0.264583">豊岡５の４</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4341"
@@ -20599,28 +20503,66 @@
        y="-55.5625"
        rx="2.6458232"
        ry="2.6458232" />
+    <g
+       id="g4392"
+       transform="translate(439.23949,-446.94993)">
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-48.947937"
+         y="375.4823"
+         id="text4386"><tspan
+           sodipodi:role="line"
+           id="tspan4384"
+           x="375.4823"
+           y="-48.947937"
+           style="writing-mode:tb-rl;stroke-width:0.264583"
+           rotate="0 0">の</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-53.736511"
+         y="389.957"
+         id="text4390"><tspan
+           sodipodi:role="line"
+           id="tspan4388"
+           x="-53.736511"
+           y="389.957"
+           style="stroke-width:0.264583">22</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
+         x="-53.736511"
+         y="374.61121"
+         id="text4396"><tspan
+           sodipodi:role="line"
+           id="tspan4394"
+           x="-53.736511"
+           y="374.61121"
+           style="stroke-width:0.264583">10</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="485.51038"
-       y="-110.87554"
+       y="-95.000549"
        id="text4658-4"><tspan
          sodipodi:role="line"
          id="tspan4656-3"
-         x="-110.87554"
+         x="-95.000549"
          y="485.51038"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">豊岡   条２丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">豊岡   の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="480.56659"
-       y="-89.242149"
+       y="-73.367157"
        id="text4662-6"><tspan
          sodipodi:role="line"
          id="tspan4660-1"
          x="480.56659"
-         y="-89.242149"
+         y="-73.367157"
          style="stroke-width:0.264583">11</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -20635,24 +20577,24 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="533.13538"
-       y="-110.87554"
+       y="-95.000549"
        id="text4436"><tspan
          sodipodi:role="line"
          id="tspan4434"
-         x="-110.87554"
+         x="-95.000549"
          y="533.13538"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">豊岡   条３丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">豊岡   の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="528.19159"
-       y="-89.242149"
+       y="-73.367157"
        id="text4440"><tspan
          sodipodi:role="line"
          id="tspan4438"
          x="528.19159"
-         y="-89.242149"
+         y="-73.367157"
          style="stroke-width:0.264583">12</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -20667,24 +20609,24 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="564.8855"
-       y="-110.87554"
+       y="-95.000549"
        id="text4446"><tspan
          sodipodi:role="line"
          id="tspan4444"
-         x="-110.87554"
+         x="-95.000549"
          y="564.8855"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">豊岡   条５丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">豊岡   の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="559.94171"
-       y="-89.242149"
+       y="-73.367157"
        id="text4450"><tspan
          sodipodi:role="line"
          id="tspan4448"
          x="559.94171"
-         y="-89.242149"
+         y="-73.367157"
          style="stroke-width:0.264583">13</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -20698,14 +20640,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="524.41748"
+       x="540.82172"
        y="-37.002861"
        id="text4475"><tspan
          sodipodi:role="line"
          id="tspan4473"
-         x="524.41748"
+         x="540.82172"
          y="-37.002861"
-         style="stroke-width:0.264583">豊岡10条５丁目</tspan></text>
+         style="stroke-width:0.264583">豊岡10の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -20717,7 +20659,7 @@
          x="-11.069433"
          y="583.40625"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡８条５丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡８の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -20729,7 +20671,7 @@
          x="-11.069433"
          y="593.98962"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡８条６丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡８の６</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4501"
@@ -20759,7 +20701,7 @@
          x="-11.030627"
          y="504.03125"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡７条２丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡７の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -20771,7 +20713,7 @@
          x="-11.030627"
          y="525.19794"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡７条３丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡７の３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -20783,7 +20725,7 @@
          x="-8.3847942"
          y="466.19583"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡７条１丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡７の１</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4363-7"
@@ -20824,7 +20766,7 @@
          x="-11.069433"
          y="620.44806"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0">豊岡８条７丁目</tspan></text>
+         rotate="0 0 0 0 0 0">豊岡８の７</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4623"
@@ -20855,14 +20797,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="783.83258"
+       x="767.95752"
        y="158.93687"
        id="text4639"><tspan
          sodipodi:role="line"
-         x="783.83258"
+         x="767.95752"
          y="158.93687"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4637">東光７条10丁目</tspan></text>
+         id="tspan4637">東光７の10</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4641"
@@ -20893,36 +20835,36 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="783.83258"
+       x="767.95752"
        y="132.47852"
        id="text4661"><tspan
          sodipodi:role="line"
-         x="783.83258"
+         x="767.95752"
          y="132.47852"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4659">東光４条10丁目</tspan></text>
+         id="tspan4659">東光４の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="783.83258"
+       x="767.95752"
        y="106.0202"
        id="text4665"><tspan
          sodipodi:role="line"
-         x="783.83258"
+         x="767.95752"
          y="106.0202"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4663">東光１条10丁目</tspan></text>
+         id="tspan4663">東光１の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
-       x="783.83258"
+       x="767.95752"
        y="74.270218"
        id="text4669"><tspan
          sodipodi:role="line"
-         x="783.83258"
+         x="767.95752"
          y="74.270218"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan4667">豊岡４条10丁目</tspan></text>
+         id="tspan4667">豊岡４の10</tspan></text>
     <g
        id="g33499-2"
        transform="translate(700.99062,-363.32292)">
@@ -20937,7 +20879,7 @@
            x="352.19907"
            y="-48.947937"
            style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0">豊岡８条    丁目</tspan></text>
+           rotate="0 0 0 0 0">豊岡８の</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -20964,7 +20906,7 @@
            x="352.19907"
            y="-48.947937"
            style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0">豊岡７条    丁目</tspan></text>
+           rotate="0 0 0 0 0">豊岡７の</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -21323,8 +21265,8 @@
          x="441.59171"
          y="834.69525"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan4897">東神楽北１条西４丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan4897">東神楽北１の西４</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4901"
@@ -21344,8 +21286,8 @@
          x="437.88757"
          y="866.44537"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan4903">東神楽北１条西３丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan4903">東神楽北１の西３</tspan></text>
     <rect
        style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3686-7"
@@ -21455,7 +21397,7 @@
          x="900.09692"
          y="394.41589"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan5042">東神楽北１条東</tspan></text>
+         id="tspan5042">東神楽北１の東</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -21567,7 +21509,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0">東旭川旭正上６丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0 0">東旭川旭正上６</tspan></text>
     </g>
     <g
        id="g5156"
@@ -21583,39 +21525,39 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0">東旭川忠別上７丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0 0">東旭川忠別上７</tspan></text>
     </g>
     <g
        id="g5162"
-       transform="translate(842.67856,-185.79836)">
+       transform="translate(842.67856,-169.92335)">
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
          x="-34.37645"
-         y="418.935"
+         y="396.18085"
          id="text5160"><tspan
            sodipodi:role="line"
            id="tspan5158"
-           x="418.40582"
-           y="-33.847282"
+           x="396.18085"
+           y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0">東旭川忠別西　   丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0">東旭川忠別西</tspan></text>
     </g>
     <g
        id="g5168"
-       transform="translate(853.2619,-178.39001)">
+       transform="translate(853.2619,-162.515)">
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
          x="-34.37645"
-         y="411.22824"
+         y="389.00327"
          id="text5166"><tspan
            sodipodi:role="line"
            id="tspan5164"
-           x="411.22824"
+           x="389.00327"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0">東川北町   丁目</tspan></text>
+           rotate="0 0 0 0 0">東川北町</tspan></text>
     </g>
     <g
        id="g5174"
@@ -21631,7 +21573,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0">東川北町８丁目</tspan></text>
+           rotate="0 0 0 0 0 0">東川北町８</tspan></text>
     </g>
     <g
        id="g5180"
@@ -21647,7 +21589,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0">東川北町６丁目</tspan></text>
+           rotate="0 0 0 0 0 0">東川北町６</tspan></text>
     </g>
     <g
        id="g5186"
@@ -21663,7 +21605,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0">東川北町４丁目</tspan></text>
+           rotate="0 0 0 0 0 0">東川北町４</tspan></text>
     </g>
     <g
        id="g5192"
@@ -21679,7 +21621,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0">東川北町３丁目</tspan></text>
+           rotate="0 0 0 0 0 0">東川北町３</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -21691,29 +21633,29 @@
            x="396.18085"
            y="-23.793118"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0">東川北町１丁目</tspan></text>
+           rotate="0 0 0 0 0 0">東川北町１</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="803.35828"
-       y="216.60487"
+       y="232.47989"
        id="text4705-2"><tspan
          sodipodi:role="line"
          id="tspan4703-7"
          x="803.35828"
-         y="216.60487"
+         y="232.47989"
          style="stroke-width:0.264583">10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="813.94165"
-       y="216.60487"
+       y="232.47989"
        id="text5227"><tspan
          sodipodi:role="line"
          id="tspan5225"
          x="813.94165"
-         y="216.60487"
+         y="232.47989"
          style="stroke-width:0.264583">10</tspan></text>
     <text
        xml:space="preserve"
@@ -21759,8 +21701,8 @@
          x="256.36612"
          y="935.3797"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan5279">東川東町２丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan5279">東川東町２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -21771,8 +21713,8 @@
          x="256.36612"
          y="945.96307"
          style="font-weight:bold;writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan5283">東川東町４丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+         id="tspan5283">東川東町４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;word-spacing:0px;text-anchor:end;stroke-width:0.264583"
@@ -21783,12 +21725,7 @@
          x="511.35898"
          y="228.13139"
          style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan3945">東光１条</tspan><tspan
-         sodipodi:role="line"
-         x="511.35898"
-         y="234.72833"
-         style="text-align:end;text-anchor:end;stroke-width:0.264583"
-         id="tspan6382">３丁目</tspan></text>
+         id="tspan3945">東光１の３</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4747-1"
@@ -21808,13 +21745,8 @@
          id="tspan4444-2"
          x="-96.289955"
          y="591.6084"
-         style="writing-mode:tb-rl;stroke-width:0.264583">豊岡   条</tspan><tspan
-         sodipodi:role="line"
-         x="-96.289955"
-         y="585.01147"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0"
-         id="tspan6293">       ６丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">豊岡   の６</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
@@ -21908,7 +21840,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0">東旭川１条２丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0">東旭川１の２</tspan></text>
     </g>
     <g
        id="g4082"
@@ -21924,53 +21856,53 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0">東旭川１条３丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0">東旭川１の３</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="627.0625"
-       y="-120.36703"
+       y="-104.49203"
        id="text4086"><tspan
          sodipodi:role="line"
          id="tspan4084"
-         x="-120.36703"
+         x="-104.49203"
          y="627.0625"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">豊岡   条７丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">豊岡   の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="622.11871"
-       y="-98.733635"
+       y="-82.858643"
        id="text4091"><tspan
          sodipodi:role="line"
          id="tspan4089"
          x="622.11871"
-         y="-98.733635"
+         y="-82.858643"
          style="stroke-width:0.264583">14</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="642.93756"
-       y="-120.36703"
+       y="-104.49203"
        id="text4095"><tspan
          sodipodi:role="line"
          id="tspan4093"
-         x="-120.36703"
+         x="-104.49203"
          y="642.93756"
          style="writing-mode:tb-rl;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0">豊岡   条９丁目</tspan></text>
+         rotate="0 0 0 0 0 0 0 0">豊岡   の９</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="637.99377"
-       y="-98.733635"
+       y="-82.858643"
        id="text4099"><tspan
          sodipodi:role="line"
          id="tspan4097"
          x="637.99377"
-         y="-98.733635"
+         y="-82.858643"
          style="stroke-width:0.264583">14</tspan></text>
     <rect
        style="fill:#000000;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -22100,7 +22032,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0">東旭川１条５丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0">東旭川１の５</tspan></text>
     </g>
     <rect
        style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -22159,7 +22091,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0">東旭川１条６丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0">東旭川１の６</tspan></text>
     </g>
     <g
        id="g4202"
@@ -22175,7 +22107,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0">東旭川１条７丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0">東旭川１の７</tspan></text>
     </g>
     <g
        id="g4210"
@@ -22191,7 +22123,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0">東旭川工業団地１条１丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0 0 0 0 0">東旭川工業団地１の１</tspan></text>
     </g>
     <g
        id="g4218"
@@ -22207,7 +22139,7 @@
            x="396.18085"
            y="-34.37645"
            style="text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0">東旭川工業団地１条２丁目</tspan></text>
+           rotate="0 0 0 0 0 0 0 0 0 0 0">東旭川工業団地１の２</tspan></text>
     </g>
     <g
        id="g4228"
@@ -26626,22 +26558,22 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-       x="962.49518"
+       x="973.07855"
        y="-420.44229"
        id="text57352"><tspan
          sodipodi:role="line"
-         x="962.49518"
+         x="973.07855"
          y="-420.44229"
          style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
          id="tspan57350">１条</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-       x="1047.162"
+       x="1041.8704"
        y="-420.44229"
        id="text57356"><tspan
          sodipodi:role="line"
-         x="1047.162"
+         x="1041.8704"
          y="-420.44229"
          style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
          id="tspan57354">４条</tspan></text>
@@ -26655,18 +26587,18 @@
          x="1016.8063"
          y="-420.44229"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan57358">曙１条５丁目</tspan></text>
+         id="tspan57358">曙１の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
-       x="938.5152"
+       x="923.69849"
        y="-409.95599"
        id="text57468"><tspan
          sodipodi:role="line"
-         x="938.5152"
+         x="923.69849"
          y="-409.95599"
          style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
-         id="tspan57466">１条８丁目⑮</tspan></text>
+         id="tspan57466">１の８⑮</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -26688,7 +26620,7 @@
          x="892.65411"
          y="-399.37268"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan57474">１条８丁目⑰</tspan></text>
+         id="tspan57474">１の８⑰</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -26721,26 +26653,26 @@
          x="1022.0981"
          y="-409.85898"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan57490">豊岡４条１丁目</tspan></text>
+         id="tspan57490">豊岡４の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="1027.3898"
+       x="1032.6814"
        y="-399.27563"
        id="text57496"><tspan
          sodipodi:role="line"
-         x="1027.3898"
+         x="1032.6814"
          y="-399.27563"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan57494">１条25丁目（厚生病院）</tspan></text>
+         id="tspan57494">１の25（厚生病院）</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-       x="951.91187"
+       x="973.07861"
        y="-399.27563"
        id="text57500"><tspan
          sodipodi:role="line"
-         x="951.91187"
+         x="973.07861"
          y="-399.27563"
          style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
          id="tspan57498">１条</tspan></text>
@@ -26797,7 +26729,7 @@
          x="892.85339"
          y="-388.75052"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan73655">旭岡３丁目</tspan></text>
+         id="tspan73655">旭岡３</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -26830,7 +26762,7 @@
          x="973.07861"
          y="-388.69232"
          style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan73667">緑町13丁目</tspan></text>
+         id="tspan73667">緑町13</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -26841,7 +26773,7 @@
          x="892.80963"
          y="-378.15167"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan73673">近文２５丁目</tspan></text>
+         id="tspan73673">近文２５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -26874,7 +26806,7 @@
          x="973.07861"
          y="-378.10901"
          style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan73685">１条８丁目</tspan></text>
+         id="tspan73685">１の８</tspan></text>
     <path
        style="fill:#000080;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 877.09377,-387.61456 v -7.9375 h 7.37769 v -1.32292 l 4.63023,5.29167 -4.63021,5.29166 v -1.32291 z"
@@ -27256,26 +27188,26 @@
          id="tspan73871">春光バスセンター</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
        x="1033.9585"
        y="-335.83386"
        id="text73877"><tspan
          sodipodi:role="line"
          x="1033.9585"
          y="-335.83386"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan73875">東６条４丁目</tspan></text>
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+         id="tspan73875">東６の４</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-       x="961.8811"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+       x="972.46448"
        y="-335.81064"
        id="text73881"><tspan
          sodipodi:role="line"
-         x="961.8811"
+         x="972.46448"
          y="-335.81064"
-         style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan73879">４条14丁目</tspan></text>
+         style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+         id="tspan73879">４の14</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
@@ -27289,26 +27221,26 @@
          id="tspan73883">旭川駅前㉑</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
        x="1137.1852"
        y="-325.23898"
        id="text73889"><tspan
          sodipodi:role="line"
          x="1137.1852"
          y="-325.23898"
-         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
-         id="tspan73887">秋月２条２丁目</tspan></text>
+         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+         id="tspan73887">秋月２の２</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
        x="1032.6814"
        y="-325.19244"
        id="text73893"><tspan
          sodipodi:role="line"
          x="1032.6814"
          y="-325.19244"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan73891">東４条２丁目</tspan></text>
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+         id="tspan73891">東４の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
@@ -27352,7 +27284,7 @@
          x="1032.6814"
          y="-314.60913"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan73913">東４条２丁目</tspan></text>
+         id="tspan73913">東４の２</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -27590,7 +27522,7 @@
          x="1032.6814"
          y="-304.02582"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74020">大町２条10丁目</tspan></text>
+         id="tspan74020">大町２の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -27612,7 +27544,7 @@
          x="892.80963"
          y="-293.48517"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan74028">１条８丁目⑮</tspan></text>
+         id="tspan74028">１の８⑮</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -27634,7 +27566,7 @@
          x="1032.6814"
          y="-293.4425"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74036">大町２条10丁目</tspan></text>
+         id="tspan74036">大町２の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -27828,7 +27760,7 @@
          x="892.80963"
          y="-282.90186"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6395">１条８丁目⑭</tspan></text>
+         id="tspan74110">１の８⑭</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -27850,7 +27782,7 @@
          x="1032.6814"
          y="-282.85919"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74118">旭町２条10丁目</tspan></text>
+         id="tspan74118">旭町２の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -28082,7 +28014,7 @@
          x="1032.6814"
          y="-272.27588"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74226">東光６条７丁目</tspan></text>
+         id="tspan74226">東光６の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -28104,7 +28036,7 @@
          x="892.80963"
          y="-261.73523"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan74234">１条７丁目⑰/⑫</tspan></text>
+         id="tspan74234">１の７⑰/⑫</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -28126,18 +28058,18 @@
          x="1032.6814"
          y="-261.69257"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74242">東光２条５丁目</tspan></text>
+         id="tspan74242">東光２の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-       x="979.76453"
+       x="985.05621"
        y="-261.69257"
        id="text74248"><tspan
          sodipodi:role="line"
-         x="979.76453"
+         x="985.05621"
          y="-261.69257"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74246">１条25丁目</tspan></text>
+         id="tspan74246">１の25</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
@@ -28148,7 +28080,7 @@
          x="892.80963"
          y="-251.1519"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan74252">１条７丁目⑳/８丁目⑮</tspan></text>
+         id="tspan74252">１の７⑳/８⑮</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -28170,7 +28102,7 @@
          x="1032.6814"
          y="-251.10924"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74260">東光２条５丁目</tspan></text>
+         id="tspan74260">東光２の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -28207,11 +28139,11 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="1043.2646"
+       x="1032.6814"
        y="-240.52589"
        id="text74280"><tspan
          sodipodi:role="line"
-         x="1043.2646"
+         x="1032.6814"
          y="-240.52589"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan74278">市立病院</tspan></text>
@@ -28225,7 +28157,7 @@
          x="965.20007"
          y="-240.56834"
          style="font-weight:normal;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74282">大町２条10丁目</tspan></text>
+         id="tspan74282">大町２の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -28236,7 +28168,7 @@
          x="892.80963"
          y="-229.98521"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74288">１条８丁目⑭</tspan></text>
+         id="tspan74288">１の８⑭</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -28247,7 +28179,7 @@
          x="1137.4836"
          y="-230.00052"
          style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74292">緑町２５丁目</tspan></text>
+         id="tspan74292">緑町２５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -28269,7 +28201,7 @@
          x="987.76123"
          y="-229.985"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74300">４条１丁目</tspan></text>
+         id="tspan74300">４の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -28280,7 +28212,7 @@
          x="892.80963"
          y="-219.40187"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74306">１条８丁目⑭</tspan></text>
+         id="tspan74306">１の８⑭</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -28313,7 +28245,7 @@
          x="987.76123"
          y="-219.40166"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74318">４条１丁目</tspan></text>
+         id="tspan74318">４の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -28324,7 +28256,7 @@
          x="892.80963"
          y="-208.81853"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74324">１条８丁目⑭</tspan></text>
+         id="tspan74324">１の８⑭</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -28346,7 +28278,7 @@
          x="1032.6814"
          y="-208.77586"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74332">大町２条15丁目</tspan></text>
+         id="tspan74332">大町２の15</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -28379,7 +28311,7 @@
          x="1137.1852"
          y="-198.23906"
          style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
-         id="tspan74346">亀吉３条１丁目</tspan></text>
+         id="tspan74346">亀吉３の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -28390,7 +28322,7 @@
          x="1032.6814"
          y="-198.19252"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74350">４条９丁目</tspan></text>
+         id="tspan74350">４の９</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -28450,7 +28382,7 @@
          x="1032.6814"
          y="-187.60918"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74378">豊岡14条７丁目</tspan></text>
+         id="tspan74378">豊岡14の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -28483,7 +28415,7 @@
          x="1137.4836"
          y="-177.0838"
          style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74390">東川東町４丁目</tspan></text>
+         id="tspan74390">東川東町４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -28494,7 +28426,7 @@
          x="1032.6814"
          y="-177.02583"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74394">東光８条９丁目</tspan></text>
+         id="tspan74394">東光８の９</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -28592,7 +28524,7 @@
          x="892.80963"
          y="-155.90181"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan74432">旭川駅⑥/７条昭和通</tspan></text>
+         id="tspan74432">旭川駅⑥/７の昭和通</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -28679,7 +28611,7 @@
          x="1032.6814"
          y="-145.2758"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74466">豊岡14条７丁目</tspan></text>
+         id="tspan74466">豊岡14の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -28755,7 +28687,7 @@
          x="1032.6814"
          y="-124.10912"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
-         id="tspan74496">豊岡４条７丁目</tspan></text>
+         id="tspan74496">豊岡４の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -28939,7 +28871,7 @@
          x="892.80963"
          y="-92.401794"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan5667">６条９丁目</tspan></text>
+         id="tspan5667">６の９</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -29015,7 +28947,7 @@
          x="892.80963"
          y="-81.818466"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan5695">６条９丁目</tspan></text>
+         id="tspan5695">６の９</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -29258,14 +29190,14 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="973.70544"
+       x="978.99713"
        y="-50.068256"
        id="text5807"><tspan
          sodipodi:role="line"
-         x="973.70544"
+         x="978.99713"
          y="-50.068256"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan5805">４条21丁目</tspan></text>
+         id="tspan5805">４の21</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
@@ -29291,25 +29223,25 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="1031.9139"
+       x="1037.2056"
        y="-50.068256"
        id="text5819"><tspan
          sodipodi:role="line"
-         x="1031.9139"
+         x="1037.2056"
          y="-50.068256"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan5817">神楽岡１条５丁目</tspan></text>
+         id="tspan5817">神楽岡１の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="968.41376"
+       x="978.99713"
        y="-39.484921"
        id="text5823"><tspan
          sodipodi:role="line"
-         x="968.41376"
+         x="978.99713"
          y="-39.484921"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan5821">神楽岡１条５丁目</tspan></text>
+         id="tspan5821">神楽岡１の５</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -29511,15 +29443,15 @@
          x="1037.2056"
          y="24.015079"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan5919">緑ヶ丘３条４丁目</tspan></text>
+         id="tspan5919">緑ヶ丘３の４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="984.28876"
+       x="989.58044"
        y="24.015079"
        id="text5925"><tspan
          sodipodi:role="line"
-         x="984.28876"
+         x="989.58044"
          y="24.015079"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan5923">市立病院</tspan></text>
@@ -29580,11 +29512,11 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="984.28876"
+       x="989.58044"
        y="34.598412"
        id="text5955"><tspan
          sodipodi:role="line"
-         x="984.28876"
+         x="989.58044"
          y="34.598412"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan5953">護国神社</tspan></text>
@@ -29611,7 +29543,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#000000;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
        x="878.31158"
        y="66.195625"
        id="text5969"><tspan
@@ -29619,50 +29551,50 @@
          id="tspan5967"
          x="878.31158"
          y="66.195625"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;stroke-width:0.264583;">82</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;stroke-width:0.264583">82</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
        x="892.80957"
        y="66.348206"
        id="text5973"><tspan
          sodipodi:role="line"
          x="892.80957"
          y="66.348206"
-         style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
          id="tspan5971">旭川駅㉕/㉗</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
        x="1137.4836"
        y="66.332901"
        id="text5977"><tspan
          sodipodi:role="line"
          x="1137.4836"
          y="66.332901"
-         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
          id="tspan5975">南高校</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
        x="984.28876"
        y="66.348419"
        id="text5981"><tspan
          sodipodi:role="line"
          x="984.28876"
          y="66.348419"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
-         id="tspan5979">１条15丁目</tspan></text>
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
+         id="tspan5979">１の15</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
        x="1031.9139"
        y="66.348419"
        id="text5985"><tspan
          sodipodi:role="line"
          x="1031.9139"
          y="66.348419"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan5983">上川神社</tspan></text>
     <path
        style="fill:#de87aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -29671,7 +29603,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#000000;fill-opacity:1;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
        x="1142.9672"
        y="66.173256"
        id="text5991"><tspan
@@ -29679,7 +29611,7 @@
          id="tspan5989"
          x="1142.9672"
          y="66.173256"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;fill-opacity:1;stroke-width:0.264583;">82</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;fill-opacity:1;stroke-width:0.264583">82</tspan></text>
     <path
        style="fill:#de87aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 877.09377,88.63563 v -7.937497 h 7.37769 v -1.322916 l 4.63023,5.291667 -4.63021,5.291657 V 88.63563 Z"
@@ -29687,7 +29619,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#000000;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
        x="878.31158"
        y="87.362282"
        id="text5999"><tspan
@@ -29695,50 +29627,50 @@
          id="tspan5997"
          x="878.31158"
          y="87.362282"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;stroke-width:0.264583;">83</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;stroke-width:0.264583">83</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
        x="892.80963"
        y="87.514862"
        id="text6003"><tspan
          sodipodi:role="line"
          x="892.80963"
          y="87.514862"
-         style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
          id="tspan6001">旭川駅㉕/㉗</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
        x="1137.4836"
        y="87.499557"
        id="text6007"><tspan
          sodipodi:role="line"
          x="1137.4836"
          y="87.499557"
-         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
          id="tspan6005">共栄バスセンター</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
        x="984.28882"
        y="87.515076"
        id="text6011"><tspan
          sodipodi:role="line"
          x="984.28882"
          y="87.515076"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan6009">上川神社</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
        x="1031.9139"
        y="87.515076"
        id="text6015"><tspan
          sodipodi:role="line"
          x="1031.9139"
          y="87.515076"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan6013">南高校</tspan></text>
     <path
        style="fill:#de87aa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -29747,7 +29679,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#000000;stroke-width:0.264583;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
        x="1142.9672"
        y="87.339912"
        id="text6021"><tspan
@@ -29755,7 +29687,7 @@
          id="tspan6019"
          x="1142.9672"
          y="87.339912"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;stroke-width:0.264583;">83</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;stroke-width:0.264583">83</tspan></text>
     <path
        style="fill:#d40055;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 877.09377,99.218964 v -7.937497 h 7.37769 v -1.322916 l 4.63023,5.291667 -4.63021,5.291652 v -1.322906 z"
@@ -29858,7 +29790,7 @@
          x="892.80963"
          y="108.68151"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6061">１条７丁目⑫/⑳</tspan></text>
+         id="tspan6061">１の７⑫/⑳</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -29869,7 +29801,7 @@
          x="1137.4836"
          y="108.66621"
          style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6065">１条８丁目⑮/⑯</tspan></text>
+         id="tspan6065">１の８⑮/⑯</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -29934,7 +29866,7 @@
          x="892.80963"
          y="119.26485"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6091">神居６条10丁目</tspan></text>
+         id="tspan6091">神居６の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -29956,7 +29888,7 @@
          x="978.99713"
          y="119.26506"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6099">ｸﾘｽﾀﾙﾎｰﾙ</tspan></text>
+         id="tspan6099">クリスタルホール</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -29967,7 +29899,7 @@
          x="1037.2056"
          y="119.26506"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6103">豊岡４条１丁目</tspan></text>
+         id="tspan6103">豊岡４の１</tspan></text>
     <path
        style="fill:#d42aff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1152.2601,120.3856 v -7.9375 h -7.3777 v -1.32292 l -4.6302,5.29167 4.6302,5.29166 v -1.32291 z"
@@ -30010,7 +29942,7 @@
          x="892.80963"
          y="129.84818"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6121">神居６条10丁目</tspan></text>
+         id="tspan6121">神居６の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -30043,7 +29975,7 @@
          x="1031.9139"
          y="129.84839"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6133">８条24丁目</tspan></text>
+         id="tspan6133">８の24</tspan></text>
     <path
        style="fill:#d42aff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1152.2601,130.96894 v -7.9375 h -7.3777 v -1.32292 l -4.6302,5.29167 4.6302,5.29166 v -1.32291 z"
@@ -30086,7 +30018,7 @@
          x="892.80963"
          y="140.43152"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6151">曙１条７丁目</tspan></text>
+         id="tspan6151">曙１の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -30119,7 +30051,7 @@
          x="1031.9139"
          y="140.43173"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6163">豊岡４条１丁目</tspan></text>
+         id="tspan6163">豊岡４の１</tspan></text>
     <path
        style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1152.2601,141.55228 v -7.9375 h -7.3777 v -1.32292 l -4.6302,5.29167 4.6302,5.29166 v -1.32291 z"
@@ -30162,7 +30094,7 @@
          x="892.80963"
          y="151.01486"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6181">曙１条７丁目</tspan></text>
+         id="tspan6181">曙１の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -30195,7 +30127,7 @@
          x="1031.9139"
          y="151.01508"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6193">８条24丁目</tspan></text>
+         id="tspan6193">８の24</tspan></text>
     <path
        style="fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1152.2601,152.13562 v -7.9375 h -7.3777 v -1.32292 l -4.6302,5.29167 4.6302,5.29166 v -1.32291 z"
@@ -30239,7 +30171,7 @@
          x="892.80963"
          y="161.59821"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan6247">１条８丁目⑭</tspan></text>
+         id="tspan6247">１の８⑭</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -30250,7 +30182,7 @@
          x="1137.1852"
          y="161.59435"
          style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
-         id="tspan6251">１条７丁目⑳</tspan></text>
+         id="tspan6251">１の７⑳</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167"
@@ -30339,7 +30271,7 @@
          x="1032.6814"
          y="182.80756"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6285">豊岡４条７丁目</tspan></text>
+         id="tspan6285">豊岡４の７</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -30399,7 +30331,7 @@
          x="984.28882"
          y="-7.73492"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6309">４条20丁目</tspan></text>
+         id="tspan6309">４の20</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -30476,15 +30408,15 @@
          x="1032.6814"
          y="2.8908625"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6345">緑ヶ丘３条４丁目</tspan></text>
+         id="tspan6345">緑ヶ丘３の４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="979.76453"
+       x="985.05621"
        y="2.8908625"
        id="text6351"><tspan
          sodipodi:role="line"
-         x="979.76453"
+         x="985.05621"
          y="2.8908625"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan6349">ホクト電子</tspan></text>
@@ -30495,7 +30427,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.75085px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#000000;stroke-width:0.215657;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.75085px;line-height:0.85;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';word-spacing:0px;fill:#ffffff;stroke-width:0.215657;"
        x="1077.5463"
        y="62.562943"
        id="text6359"
@@ -30504,51 +30436,51 @@
          id="tspan6357"
          x="1077.5463"
          y="62.562943"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.75085px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#000000;stroke-width:0.215657;">802</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.75085px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';fill:#ffffff;stroke-width:0.215657;">802</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
        x="892.80963"
        y="76.931526"
        id="text6369"><tspan
          sodipodi:role="line"
          x="892.80963"
          y="76.931526"
-         style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
          id="tspan6367">旭川駅㉑</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
        x="1137.1852"
        y="76.927658"
        id="text6373"><tspan
          sodipodi:role="line"
          x="1137.1852"
          y="76.927658"
-         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:bold;font-size:7.76111px;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
          id="tspan6371">南高校</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
        x="1032.6814"
        y="76.974197"
        id="text6377"><tspan
          sodipodi:role="line"
          x="1032.6814"
          y="76.974197"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan6375">上川神社</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
+       style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
        x="985.05621"
        y="76.974197"
        id="text6381"><tspan
          sodipodi:role="line"
          x="985.05621"
          y="76.974197"
-         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.529167;"
-         id="tspan6379">１条15丁目</tspan></text>
+         style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
+         id="tspan6379">１の15</tspan></text>
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 877.09377,56.885627 V 48.94813 h 7.37769 v -1.32292 l 4.63023,5.291667 -4.63021,5.291657 v -1.322907 z"
@@ -30654,7 +30586,7 @@
          x="892.80963"
          y="172.18155"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6457">亀吉３条１丁目</tspan></text>
+         id="tspan6457">亀吉３の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.529167"
@@ -30687,7 +30619,7 @@
          x="985.05621"
          y="172.22421"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6469">神居２条９丁目</tspan></text>
+         id="tspan6469">神居２の９</tspan></text>
     <path
        style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 877.09377,-133.6144 v -7.9375 h 7.37769 v -1.32292 l 4.63023,5.29167 -4.63021,5.29166 v -1.32291 z"
@@ -30745,25 +30677,25 @@
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="1037.973"
+       x="1032.6814"
        y="-134.69246"
        id="text6497"><tspan
          sodipodi:role="line"
-         x="1037.973"
+         x="1032.6814"
          y="-134.69246"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6495">豊岡13条６丁目</tspan></text>
+         id="tspan6495">豊岡13の６</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="974.47284"
+       x="985.05621"
        y="-134.69246"
        id="text6501"><tspan
          sodipodi:role="line"
-         x="974.47284"
+         x="985.05621"
          y="-134.69246"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6499">豊岡２条３丁目</tspan></text>
+         id="tspan6499">豊岡２の３</tspan></text>
     <path
        style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 877.09377,-17.197709 v -7.937497 h 7.37769 v -1.322921 l 4.63023,5.291667 -4.63021,5.291657 v -1.322906 z"
@@ -30808,7 +30740,7 @@
          x="892.80963"
          y="-18.318476"
          style="font-weight:bold;font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.529167"
-         id="tspan6517">ひじり野１条10丁目</tspan></text>
+         id="tspan6517">ひじり野１の10</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.529167"
@@ -30852,7 +30784,7 @@
          x="1037.2056"
          y="34.598412"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6533">緑ヶ丘３条４丁目</tspan></text>
+         id="tspan6533">緑ヶ丘３の４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -30863,7 +30795,7 @@
          x="1010.7473"
          y="108.68173"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6537">神居２条１丁目</tspan></text>
+         id="tspan6537">神居２の１</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
@@ -30874,26 +30806,26 @@
          x="1037.2056"
          y="45.181747"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6541">緑ヶ丘３条４丁目</tspan></text>
+         id="tspan6541">緑ヶ丘３の４</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="984.28876"
+       x="989.58044"
        y="45.181747"
        id="text6547"><tspan
          sodipodi:role="line"
-         x="984.28876"
+         x="989.58044"
          y="45.181747"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan6545">市立病院</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:7.76111px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-       x="984.28876"
+       x="989.58044"
        y="55.765083"
        id="text6551"><tspan
          sodipodi:role="line"
-         x="984.28876"
+         x="989.58044"
          y="55.765083"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
          id="tspan6549">護国神社</tspan></text>
@@ -30907,7 +30839,7 @@
          x="1037.2056"
          y="55.765083"
          style="font-weight:normal;font-size:7.76111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.529167"
-         id="tspan6553">緑ヶ丘３条４丁目</tspan></text>
+         id="tspan6553">緑ヶ丘３の４</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:12.2566px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p Ultra-Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.417839"
@@ -31179,12 +31111,12 @@
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
        x="752.4754"
-       y="-373.59167"
+       y="-352.42505"
        id="text11055"><tspan
          sodipodi:role="line"
          id="tspan11053"
          x="752.4754"
-         y="-373.59167"
+         y="-352.42505"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p Bold';stroke-width:0.264583">系統番号</tspan></text>
     <rect
        style="fill:#ffffff;stroke:#00ffff;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -32018,17 +31950,17 @@
     <text
        xml:space="preserve"
        style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-       x="-114.1123"
-       y="-226.1115"
+       x="-111.46646"
+       y="-225.05318"
        id="text2715-4"><tspan
          sodipodi:role="line"
-         x="-114.1123"
-         y="-226.1115"
+         x="-111.46646"
+         y="-225.05318"
          style="stroke-width:0.264583"
          id="tspan13039-1">春光２条</tspan><tspan
          sodipodi:role="line"
-         x="-114.1123"
-         y="-219.51456"
+         x="-111.46646"
+         y="-218.45624"
          style="stroke-width:0.264583"
          id="tspan6638">　７丁目</tspan></text>
     <rect
@@ -32289,130 +32221,5 @@
          y="420.97125"
          style="stroke-width:0.264583"
          id="tspan6306">　12丁目</tspan></text>
-    <g
-       id="g6244"
-       transform="translate(442.22828,-414.18041)">
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:1.05;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-41.010433"
-         y="366.48651"
-         id="text6238"><tspan
-           sodipodi:role="line"
-           id="tspan6232"
-           x="366.48651"
-           y="-41.010433"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0">８条</tspan><tspan
-           sodipodi:role="line"
-           x="366.48651"
-           y="-49.159588"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0"
-           id="tspan6234">    丁目</tspan><tspan
-           sodipodi:role="line"
-           x="366.48651"
-           y="-57.308743"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0"
-           id="tspan6236" /></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-54.265678"
-         y="374.08176"
-         id="text6242"><tspan
-           sodipodi:role="line"
-           id="tspan6240"
-           x="-54.265678"
-           y="374.08176"
-           style="stroke-width:0.264583">22</tspan></text>
-    </g>
-    <g
-       id="g6258"
-       transform="translate(468.68663,-414.18041)">
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:1.05;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-41.010433"
-         y="366.48651"
-         id="text6252"><tspan
-           sodipodi:role="line"
-           id="tspan6246"
-           x="366.48651"
-           y="-41.010433"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0">８条</tspan><tspan
-           sodipodi:role="line"
-           x="366.48651"
-           y="-49.159588"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0"
-           id="tspan6248">    丁目</tspan><tspan
-           sodipodi:role="line"
-           x="366.48651"
-           y="-57.308743"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0"
-           id="tspan6250" /></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-54.265678"
-         y="374.08176"
-         id="text6256"><tspan
-           sodipodi:role="line"
-           id="tspan6254"
-           x="-54.265678"
-           y="374.08176"
-           style="stroke-width:0.264583">24</tspan></text>
-    </g>
-    <g
-       id="g6276"
-       transform="translate(439.58243,-447.51794)">
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:1.05;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-49.4771"
-         y="349.55319"
-         id="text6270"><tspan
-           sodipodi:role="line"
-           x="350.08237"
-           y="-50.006268"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-           id="tspan6265"><tspan
-   rotate="0 0 0 0 0 0"
-   id="tspan6283"
-   style="writing-mode:tb-rl;stroke-width:0.264583">    条</tspan>    丁目</tspan><tspan
-           sodipodi:role="line"
-           x="350.08237"
-           y="-58.155422"
-           style="writing-mode:tb-rl;stroke-width:0.264583"
-           rotate="0 0 0"
-           id="tspan6268" /></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-54.265678"
-         y="374.08176"
-         id="text6274"><tspan
-           sodipodi:role="line"
-           id="tspan6272"
-           x="-54.265678"
-           y="374.08176"
-           style="stroke-width:0.264583">22</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:7.7611px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';word-spacing:0px;stroke-width:0.264583"
-         x="-54.265678"
-         y="357.6777"
-         id="text6281"><tspan
-           sodipodi:role="line"
-           id="tspan6279"
-           x="-54.265678"
-           y="357.6777"
-           style="stroke-width:0.264583">10</tspan></text>
-    </g>
   </g>
 </svg>

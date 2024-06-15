@@ -673,11 +673,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1547014"
-     inkscape:cx="4150.6986"
-     inkscape:cy="738.01066"
+     inkscape:zoom="0.81649719"
+     inkscape:cx="3547.5176"
+     inkscape:cy="867.51732"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:snap-smooth-nodes="true"
@@ -723,7 +723,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1512,7 +1512,7 @@
            id="tspan18662-3-0-2">Yamaguchi-Ube Road</tspan></text>
     </g>
     <rect
-       style="display:inline;mix-blend-mode:normal;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;mix-blend-mode:overlay;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect11160-6-1"
        width="70.114632"
        height="15.87501"
@@ -3079,7 +3079,7 @@
          style="font-weight:bold;fill:#ffffff;stroke-width:0.227474"
          id="tspan16572">311</tspan></text>
     <rect
-       style="display:inline;mix-blend-mode:normal;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;mix-blend-mode:overlay;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect11182-2"
        width="62.177265"
        height="15.875"
@@ -6031,7 +6031,7 @@
        x="-495.27667"
        y="38.364651" />
     <rect
-       style="display:inline;mix-blend-mode:normal;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;mix-blend-mode:overlay;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect11160-6-4"
        width="105.04989"
        height="15.875015"
@@ -6596,7 +6596,7 @@
        y="-106.72454"
        style="display:inline" />
     <rect
-       style="display:inline;mix-blend-mode:normal;fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="display:inline;mix-blend-mode:overlay;fill:#ffcc00;fill-opacity:1;stroke:#ffcc00;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect11160-6-11"
        width="63.499981"
        height="15.875015"
