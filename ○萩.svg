@@ -124,9 +124,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53005239"
-     inkscape:cx="3813.774"
-     inkscape:cy="973.48868"
+     inkscape:zoom="1.0601048"
+     inkscape:cx="1096.1181"
+     inkscape:cy="1525.3209"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
@@ -140,11 +140,11 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="838"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="956"
+     inkscape:window-height="1081"
+     inkscape:window-x="951"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -5920,6 +5920,14 @@
      id="layer3"
      inkscape:label="名前"
      transform="translate(699.77527,333.31412)">
+    <path
+       style="opacity:0.36290323;fill:none;stroke:#ffaaaa;stroke-width:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 630.00001,69.999987 h 49.99998 V 115 h 40.00003 -40.00003 V 149.99998 130 H 645.00001 L 625,149.99998 605.00001,130 625,109.99999 645.00001,130"
+       id="path23" />
+    <path
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:#c83737;stroke-width:4.99999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.145098"
+       d="M 580.00001,210 795,125.00001"
+       id="path24" />
     <path
        style="fill:#ff00ff;stroke:#00ffff;stroke-width:4.99999;stroke-opacity:0.145098"
        d="M 910.00001,275 V 79.999993"
@@ -20503,10 +20511,6 @@
          style="fill:#0000ff;stroke:none;stroke-width:0.424"
          x="-617.87933"
          y="97.268799">サンデン交通</tspan></text>
-    <path
-       style="opacity:0.36290323;fill:none;stroke:#ffaaaa;stroke-width:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 630.00001,69.999987 h 49.99998 V 115 h 40.00003 -40.00003 V 149.99998 130 H 645.00001 L 625,149.99998 605.00001,130 625,109.99999 645.00001,130"
-       id="path23" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p';fill:#c83737;stroke:none;stroke-width:0.424;stroke-dasharray:0.212001, 0.212001;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:1;opacity:1"
@@ -20609,10 +20613,6 @@
          x="813.50806"
          y="390.552"
          id="tspan24-5-5-4" /></text>
-    <path
-       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:#c83737;stroke-width:4.99999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.145098"
-       d="M 580.00001,210 795,125.00001"
-       id="path24" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#deaa87;stroke-width:4.99999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.145098"
        d="m 800.00002,275 -13.68748,21.45408 46.27364,172.69555"
