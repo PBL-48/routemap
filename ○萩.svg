@@ -125,10 +125,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0601048"
-     inkscape:cx="1096.1181"
-     inkscape:cy="1525.3209"
+     inkscape:cx="2529.9385"
+     inkscape:cy="1299.3998"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g5319"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -140,11 +140,11 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:snap-nodes="true"
-     inkscape:window-width="956"
-     inkscape:window-height="1081"
-     inkscape:window-x="951"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -171,7 +171,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -991,8 +990,9 @@
        id="path1951" />
     <path
        style="fill:none;stroke:#00ffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 425.97916,367.77083 H 534.45833"
-       id="path1953" />
+       d="m 425.97916,367.77083 60.86446,0"
+       id="path1953"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ffb380;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:188.976"
        id="path1955"
@@ -3779,10 +3779,6 @@
        id="path86880-4-8"
        sodipodi:nodetypes="cscccc" />
     <path
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.42632;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 538.15944,367.88263 c 0,2.0836 -1.68946,3.77307 -3.77444,3.77307 -2.08362,0 -3.77307,-1.68947 -3.77307,-3.77307 0,-2.08497 1.68945,-3.77444 3.77307,-3.77444 2.08498,0 3.77444,1.68947 3.77444,3.77444 z m 0,0"
-       id="path12627-8-0" />
-    <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.17053;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        d="m 442.041,37.04171 c 0,1.71012 -1.38769,3.09644 -3.09785,3.09644 -1.71016,0 -3.09643,-1.38632 -3.09643,-3.09644 0,-1.71016 1.38627,-3.09647 3.09643,-3.09647 1.71016,0 3.09785,1.38631 3.09785,3.09647 z m 0,0"
        id="path18791-8-2" />
@@ -4251,20 +4247,6 @@
        sodipodi:arc-type="arc"
        d="m -500.06255,-354.54166 a 13.229177,13.229177 0 0 1 13.22918,-13.22917"
        transform="scale(-1)" />
-    <path
-       style="fill:none;stroke:#00ffff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:188.976"
-       id="path21118"
-       sodipodi:type="arc"
-       sodipodi:cx="513.29169"
-       sodipodi:cy="-354.54166"
-       sodipodi:rx="13.229177"
-       sodipodi:ry="13.229177"
-       sodipodi:start="3.1415927"
-       sodipodi:end="4.712389"
-       sodipodi:open="true"
-       sodipodi:arc-type="arc"
-       d="m 500.06251,-354.54166 a 13.229177,13.229177 0 0 1 13.22918,-13.22917"
-       transform="scale(1,-1)" />
     <path
        style="fill:none;stroke:#ffcc00;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:188.976"
        id="path4227"
@@ -6808,58 +6790,6 @@
            x="1185.672"
            y="4135.2598"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.75">Abugawa Hot Spring</tspan></text>
-    </g>
-    <g
-       id="g1929"
-       transform="matrix(0.3527778,0,0,0.3527778,-949.9385,-55.689533)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9999px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p';text-align:end;text-anchor:end;stroke-width:0.75"
-         x="4155.75"
-         y="1186.89"
-         id="text1923"><tspan
-           sodipodi:role="line"
-           id="tspan1921"
-           x="1186.89"
-           y="4155.75"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p';text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.75">資料館前</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:29.9999px;line-height:0.85;font-family:Broadway;-inkscape-font-specification:Broadway;stroke-width:0.75"
-         x="4135.2598"
-         y="1185.672"
-         id="text1927"><tspan
-           sodipodi:role="line"
-           id="tspan1925"
-           x="1185.672"
-           y="4135.2598"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.75">Museum</tspan></text>
-    </g>
-    <g
-       id="g1939"
-       transform="matrix(0.3527778,0,0,0.3527778,-931.4181,-55.689533)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9999px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p';text-align:end;text-anchor:end;stroke-width:0.75"
-         x="4155.75"
-         y="1186.89"
-         id="text1933"><tspan
-           sodipodi:role="line"
-           id="tspan1931"
-           x="1186.89"
-           y="4155.75"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p';text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.75">惣良台入口</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:29.9999px;line-height:0.85;font-family:Broadway;-inkscape-font-specification:Broadway;stroke-width:0.75"
-         x="4135.2598"
-         y="1185.672"
-         id="text1937"><tspan
-           sodipodi:role="line"
-           id="tspan1935"
-           x="1185.672"
-           y="4135.2598"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;writing-mode:tb-rl;text-anchor:end;stroke-width:0.75">Sōradai Entrance</tspan></text>
     </g>
     <g
        id="g2004"
@@ -15886,10 +15816,6 @@
        sodipodi:nodetypes="cscccc" />
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.795528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 517.52497,367.77082 c 0,1.1617 -0.94259,2.10429 -2.10429,2.10429 -1.16303,0 -2.10562,-0.94259 -2.10562,-2.10429 0,-1.16304 0.94259,-2.10562 2.10562,-2.10562 1.1617,0 2.10429,0.94258 2.10429,2.10562 z m 0,0"
-       id="path17237-5-5-5" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.795528;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        d="m 750.84666,296.45475 c 0,1.1617 -0.94258,2.10429 -2.10428,2.10429 -1.16304,0 -2.10563,-0.94259 -2.10563,-2.10429 0,-1.16304 0.94259,-2.10562 2.10563,-2.10562 1.1617,0 2.10428,0.94258 2.10428,2.10562 z m 0,0"
        id="path56205-8-2-7-3-4" />
     <path
@@ -18958,7 +18884,7 @@
            id="tspan5311"
            x="2236.3398"
            y="2474.1289"
-           style="font-weight:bold;font-size:22px;text-align:end;text-anchor:end;fill:#000000;stroke-width:1.5">惣良台入口</tspan></text>
+           style="font-weight:bold;font-size:22px;text-align:end;text-anchor:end;fill:#000000;stroke-width:1.5">阿武川温泉</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p Ultra-Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.375"
@@ -18969,7 +18895,7 @@
            id="tspan5315"
            x="2234.6909"
            y="2486.04"
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p Ultra-Bold';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.375">Sōradai Entrance</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p Ultra-Bold';text-align:end;text-anchor:end;fill:#000000;stroke-width:0.375">Abugawa Hot Spring</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
