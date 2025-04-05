@@ -673,11 +673,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19852978"
-     inkscape:cx="866.36878"
-     inkscape:cy="-622.07293"
+     inkscape:zoom="0.27622351"
+     inkscape:cx="1017.2921"
+     inkscape:cy="1504.2167"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:snap-smooth-nodes="true"
@@ -1117,9 +1117,9 @@
          id="text21129-7"><tspan
            sodipodi:role="line"
            id="tspan21127-8"
-           x="195.4637"
-           y="100.61953"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.264583">Shin-tenchi</tspan></text>
+           x="100.61953"
+           y="195.4637"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.264583">Shintenchi</tspan></text>
     </g>
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.901961;paint-order:markers fill stroke"
@@ -1184,7 +1184,7 @@
        sodipodi:open="true" />
     <path
        style="fill:none;stroke:#008000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m -587.90412,-324.77593 v 250.0312"
+       d="M -587.90412,-309.99995 V -74.74473"
        id="path5767"
        sodipodi:nodetypes="cc" />
     <rect
@@ -2225,45 +2225,6 @@
        sodipodi:arc-type="arc"
        d="m -620.97709,-146.18225 a 9.260417,9.260417 0 0 1 9.26042,-9.26042"
        sodipodi:open="true" />
-    <rect
-       style="display:inline;fill:#008000;fill-opacity:1;stroke:#008000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect26527-0-9"
-       width="42.333393"
-       height="15.875"
-       x="-623.62299"
-       y="-340.651" />
-    <g
-       id="g26545-1-5"
-       transform="translate(-187.41191,-603.57838)"
-       style="display:inline;fill:#ffffff">
-      <g
-         id="g26543-9-3"
-         transform="translate(2.5234169e-5,-3.1678994e-5)"
-         style="fill:#ffffff">
-        <text
-           xml:space="preserve"
-           style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Medium';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
-           x="-393.46951"
-           y="271.79221"
-           id="text26537-5-0"><tspan
-             sodipodi:role="line"
-             id="tspan26535-7-6"
-             x="-393.46951"
-             y="271.79221"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">佐波分校</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
-           x="-392.93237"
-           y="277.79596"
-           id="text26541-6-8"><tspan
-             sodipodi:role="line"
-             x="-392.93237"
-             y="277.79596"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
-             id="tspan26539-0-1">SABA BRANCH SCHOOL</tspan></text>
-      </g>
-    </g>
     <path
        style="fill:none;stroke:#008000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -620.97703,-146.18223 v 43.6562"
@@ -3139,446 +3100,6 @@
        d="m 631.42809,163.38014 a 19.843761,19.843761 0 0 1 19.84376,-19.84376"
        sodipodi:open="true"
        transform="scale(-1)" />
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-283.85471"
-       y="-124.77836"
-       id="text2283"><tspan
-         sodipodi:role="line"
-         id="tspan2281"
-         x="-283.85471"
-         y="-124.77836"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥650</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-310.31302"
-       y="-124.77836"
-       id="text2287"><tspan
-         sodipodi:role="line"
-         id="tspan2285"
-         x="-310.31302"
-         y="-124.77836"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥640</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-336.77136"
-       y="-124.77836"
-       id="text2291"><tspan
-         sodipodi:role="line"
-         id="tspan2289"
-         x="-336.77136"
-         y="-124.77836"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥640</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-362.17139"
-       y="-105.19918"
-       id="text2295"><tspan
-         sodipodi:role="line"
-         id="tspan2293"
-         x="-362.17139"
-         y="-105.19918"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none">¥580</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-389.15884"
-       y="-123.72002"
-       id="text2295-4"><tspan
-         sodipodi:role="line"
-         id="tspan2293-8"
-         x="-389.15884"
-         y="-123.72002"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥580</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-413.50052"
-       y="-123.72002"
-       id="text2317"><tspan
-         sodipodi:role="line"
-         id="tspan2315"
-         x="-413.50052"
-         y="-123.72002"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥450</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-439.16495"
-       y="-123.72002"
-       id="text2325"><tspan
-         sodipodi:role="line"
-         id="tspan2323"
-         x="-439.16495"
-         y="-123.72002"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥430</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-464.56494"
-       y="-123.72002"
-       id="text2329"><tspan
-         sodipodi:role="line"
-         id="tspan2327"
-         x="-464.56494"
-         y="-123.72002"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥290</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-515.36493"
-       y="-134.83253"
-       id="text2333"><tspan
-         sodipodi:role="line"
-         id="tspan2331"
-         x="-515.36493"
-         y="-134.83253"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥210</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-557.16907"
-       y="-96.190956"
-       id="text2337"><tspan
-         sodipodi:role="line"
-         id="tspan2335"
-         x="-557.16907"
-         y="-96.190956"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-516.67853"
-       y="-96.190956"
-       id="text2341"><tspan
-         sodipodi:role="line"
-         id="tspan2339"
-         x="-516.67853"
-         y="-96.190956"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-557.16907"
-       y="-138.85863"
-       id="text2345"><tspan
-         sodipodi:role="line"
-         id="tspan2343"
-         x="-557.16907"
-         y="-138.85863"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-478.85245"
-       y="-135.36169"
-       id="text2329-1"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8"
-         x="-478.85245"
-         y="-135.36169"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥260</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-458.21497"
-       y="-173.99084"
-       id="text2329-5"><tspan
-         sodipodi:role="line"
-         id="tspan2327-0"
-         x="-458.21497"
-         y="-173.99084"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥360</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-558.22742"
-       y="-180.32846"
-       id="text2345-5"><tspan
-         sodipodi:role="line"
-         id="tspan2343-3"
-         x="-558.22742"
-         y="-180.32846"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-475.67749"
-       y="-233.78667"
-       id="text2325-3"><tspan
-         sodipodi:role="line"
-         id="tspan2323-9"
-         x="-475.67749"
-         y="-233.78667"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥430</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-587.05774"
-       y="-249.31494"
-       id="text2291-9"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8"
-         x="-587.05774"
-         y="-249.31494"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥600</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-528.84943"
-       y="-266.41263"
-       id="text2291-9-2"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8"
-         x="-528.84943"
-         y="-266.41263"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥710</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-585.99939"
-       y="-297.0795"
-       id="text2291-9-2-7"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8-2"
-         x="-585.99939"
-         y="-297.0795"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥880</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-585.99939"
-       y="-341.73669"
-       id="text2493"><tspan
-         sodipodi:role="line"
-         id="tspan2491"
-         x="-585.99939"
-         y="-341.73669"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥920</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-605.57886"
-       y="-249.31494"
-       id="text2497"><tspan
-         sodipodi:role="line"
-         id="tspan2495"
-         x="-605.57886"
-         y="-249.31494"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥600</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-659.55359"
-       y="-327.77115"
-       id="text2291-9-2-7-2"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8-2-4"
-         x="-659.55359"
-         y="-327.77115"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥840</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-684.95361"
-       y="-264.80032"
-       id="text2291-9-2-7-2-2"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8-2-4-3"
-         x="-684.95361"
-         y="-264.80032"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥870</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-690.5191"
-       y="-354.96585"
-       id="text2291-9-2-7-2-2-4"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8-2-4-3-0"
-         x="-690.5191"
-         y="-354.96585"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥870</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-757.97858"
-       y="-305.22421"
-       id="text2493-4"><tspan
-         sodipodi:role="line"
-         id="tspan2491-2"
-         x="-757.97858"
-         y="-305.22421"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥950</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-784.96613"
-       y="-328.68994"
-       id="text2493-4-1"><tspan
-         sodipodi:role="line"
-         id="tspan2491-2-7"
-         x="-784.96613"
-         y="-328.68994"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥1170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-785.49524"
-       y="-285.29831"
-       id="text2493-4-1-7"><tspan
-         sodipodi:role="line"
-         id="tspan2491-2-7-1"
-         x="-785.49524"
-         y="-285.29831"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥1020</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-665.64832"
-       y="-94.615852"
-       id="text2329-1-4"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8"
-         x="-665.64832"
-         y="-94.615852"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥260</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-703.74835"
-       y="-94.615852"
-       id="text2329-1-4-4"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-2"
-         x="-703.74835"
-         y="-94.615852"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥370</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-751.90253"
-       y="-154.4117"
-       id="text2329-1-4-4-5"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-2-1"
-         x="-751.90253"
-         y="-154.4117"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥370</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-773.06921"
-       y="-94.615875"
-       id="text2329-1-4-4-5-0"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-2-1-9"
-         x="-773.06921"
-         y="-94.615875"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥380</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-802.17328"
-       y="-120.01585"
-       id="text2325-8-7"><tspan
-         sodipodi:role="line"
-         id="tspan2323-5-2"
-         x="-802.17328"
-         y="-120.01585"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥420</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-854.29639"
-       y="-99.907516"
-       id="text2317-1"><tspan
-         sodipodi:role="line"
-         id="tspan2315-3"
-         x="-854.29639"
-         y="-99.907516"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥480</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-878.37329"
-       y="-124.77835"
-       id="text2325-8-2"><tspan
-         sodipodi:role="line"
-         id="tspan2323-5-7"
-         x="-878.37329"
-         y="-124.77835"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥540</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-802.95776"
-       y="-35.141983"
-       id="text2291-9-2-7-2-5"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8-2-4-4"
-         x="-802.95776"
-         y="-35.141983"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥840</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-802.42865"
-       y="-7.0961576"
-       id="text2291-9-2-7-2-2-5"><tspan
-         sodipodi:role="line"
-         id="tspan2289-8-8-2-4-3-5"
-         x="-802.42865"
-         y="-7.0961576"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥870</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-709.03992"
-       y="26.03414"
-       id="text2325-0"><tspan
-         sodipodi:role="line"
-         id="tspan2323-7"
-         x="-709.03992"
-         y="26.03414"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥400</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-669.35242"
-       y="26.563318"
-       id="text2325-0-5"><tspan
-         sodipodi:role="line"
-         id="tspan2323-7-1"
-         x="-669.35242"
-         y="26.563318"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥220</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-736.0274"
-       y="67.838318"
-       id="text2325-0-5-9"><tspan
-         sodipodi:role="line"
-         id="tspan2323-7-1-6"
-         x="-736.0274"
-         y="67.838318"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥530</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-708.51074"
-       y="93.238319"
-       id="text2325-0-5-9-8"><tspan
-         sodipodi:role="line"
-         id="tspan2323-7-1-6-5"
-         x="-708.51074"
-         y="93.238319"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥570</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3960,7 +3481,7 @@
            id="tspan3959"
            x="-600.60419"
            y="211.6667"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">堀/佐波分校</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">堀</tspan></text>
       <text
          xml:space="preserve"
          style="font-weight:500;font-size:5.29165px;line-height:1.25;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic, Medium';fill:#ffffff;stroke-width:0.132291"
@@ -3971,7 +3492,7 @@
            id="tspan3963"
            x="-599.60425"
            y="216.71548"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:0.132291">HORI/SABA BRANCH SCHOOL</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:0.132291">HORI</tspan></text>
     </g>
     <g
        id="g4017"
@@ -4360,7 +3881,7 @@
            id="tspan4666"
            x="-592.95483"
            y="216.71548"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:0.132291">West HS/Medical Center</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Agency FB';-inkscape-font-specification:'Agency FB';fill:#ffffff;stroke-width:0.132291">Nishi HS/Medical Center</tspan></text>
     </g>
     <g
        id="g4690"
@@ -7473,14 +6994,14 @@
     <text
        xml:space="preserve"
        style="font-size:9.89534px;line-height:0.85;font-family:'M PLUS 1p';-inkscape-font-specification:'M PLUS 1p, Normal';fill:#ffffff;stroke-width:0.231922"
-       x="-679.80939"
-       y="-388.1199"
+       x="-676.10522"
+       y="-387.59073"
        id="text16740"><tspan
          sodipodi:role="line"
          id="tspan16738"
-         x="-679.80939"
-         y="-388.1199"
-         style="font-size:9.89534px;fill:#ffffff;stroke-width:0.231922">2024/4/01~</tspan></text>
+         x="-676.10522"
+         y="-387.59073"
+         style="font-size:9.89534px;fill:#ffffff;stroke-width:0.231922">2025/4/1~</tspan></text>
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#0000ff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.5, 1.50000000000000000;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect1302"
@@ -7829,127 +7350,5 @@
        x="-688.52277"
        y="-299.68912"
        style="display:inline" />
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-621.1983"
-       y="-106.77431"
-       id="text2337-8"><tspan
-         sodipodi:role="line"
-         id="tspan2335-5"
-         x="-621.1983"
-         y="-106.77431"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-681.52332"
-       y="-215.78262"
-       id="text2337-8-1"><tspan
-         sodipodi:role="line"
-         id="tspan2335-5-1"
-         x="-681.52332"
-         y="-215.78262"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥300</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-705.86493"
-       y="-172.40337"
-       id="text2647"><tspan
-         sodipodi:role="line"
-         id="tspan2645"
-         x="-705.86493"
-         y="-172.40337"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥340</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-707.45245"
-       y="-103.61171"
-       id="text2647-8"><tspan
-         sodipodi:role="line"
-         id="tspan2645-6"
-         x="-707.45245"
-         y="-103.61171"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥310</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-546.58569"
-       y="10.700701"
-       id="text2337-8-14"><tspan
-         sodipodi:role="line"
-         id="tspan2335-5-2"
-         x="-546.58569"
-         y="10.700701"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-517.48163"
-       y="71.013313"
-       id="text2329-1-4-9"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-0"
-         x="-517.48163"
-         y="71.013313"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥250</tspan></text>
-    <text
-       xml:space="preserve"
-       style="display:inline;font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-525.94836"
-       y="105.93832"
-       id="text2329-1-4-4-8"
-       transform="translate(1.125e-5,-1.1458333e-5)"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-2-7"
-         x="-525.94836"
-         y="105.93832"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥370</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-569.34003"
-       y="109.11332"
-       id="text2329-1-4-4-8-3"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-2-7-3"
-         x="-569.34003"
-         y="109.11332"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥500</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-668.29401"
-       y="-6.7618008"
-       id="text2337-8-14-9"><tspan
-         sodipodi:role="line"
-         id="tspan2335-5-2-1"
-         x="-668.29401"
-         y="-6.7618008"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-605.85242"
-       y="11.229877"
-       id="text2337-8-14-9-3"><tspan
-         sodipodi:role="line"
-         id="tspan2335-5-2-1-2"
-         x="-605.85242"
-         y="11.229877"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥170</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:0.85;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Normal';text-align:center;text-anchor:middle;display:inline;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none"
-       x="-521.71497"
-       y="28.679974"
-       id="text2329-1-4-9-5"><tspan
-         sodipodi:role="line"
-         id="tspan2327-8-8-0-4"
-         x="-521.71497"
-         y="28.679974"
-         style="font-weight:bold;font-size:6.35px;fill:#ff0000;stroke:#ffffff;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none">¥0</tspan></text>
   </g>
 </svg>
