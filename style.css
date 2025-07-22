@@ -65,6 +65,16 @@ img {
     height: auto;
     margin: 10px auto;
     overflow: hidden;
+    max-width: 100%;
+}
+
+/* 山口県.svgを適切なサイズで表示 */
+object[data="山口県.svg"] {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
 }
 
 map area {
