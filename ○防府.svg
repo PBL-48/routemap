@@ -972,9 +972,9 @@
      inkscape:window-height="1094"
      id="namedview51276"
      showgrid="true"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="2013.8401"
-     inkscape:cy="-74.953319"
+     inkscape:zoom="0.5"
+     inkscape:cx="892"
+     inkscape:cy="825"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
@@ -23233,7 +23233,7 @@
        id="tspan33376-8"
        x="2816.2874"
        y="2355.1028"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9999px;font-family:'A P-OTF Shin Go Pr6N';-inkscape-font-specification:'A P-OTF Shin Go Pr6N, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:tb-rl;stroke-width:0.75">沖の原</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.9999px;font-family:'A P-OTF Shin Go Pr6N';-inkscape-font-specification:'A P-OTF Shin Go Pr6N, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:tb-rl;stroke-width:0.75">協和自工前</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75"
@@ -23245,7 +23245,7 @@
        id="tspan33380-6"
        x="2356.8496"
        y="-2788.2881"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Okinohara</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.75">Kyōwa Jikō</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:29.9999px;line-height:1.25;font-family:'A P-OTF Shin Go Pr6N';-inkscape-font-specification:'A P-OTF Shin Go Pr6N, Normal';stroke-width:0.75"
@@ -27282,12 +27282,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.375"
-     x="1488.5956"
+     x="1496.0956"
      y="2354.1819"
      id="text16463"><tspan
        sodipodi:role="line"
        id="tspan16461"
-       x="1488.5956"
+       x="1496.0956"
        y="2354.1819"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;stroke-width:0.375">Sano-minami</tspan></text>
   <path
@@ -34293,9 +34293,9 @@
   <rect
      style="fill:#000000;stroke:#000000;stroke-width:9.8589;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.901961"
      id="rect16778"
-     width="311.44714"
-     height="60.000008"
-     x="885.41736"
+     width="361.44714"
+     height="60"
+     x="835.41736"
      y="355.96594"
      rx="0.00016173601"
      ry="8.250001" />
@@ -34348,14 +34348,14 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:0.85;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#ffffff;stroke-width:1.5"
-     x="897.88068"
+     x="848.24927"
      y="408.36591"
      id="text16740"><tspan
        sodipodi:role="line"
        id="tspan16738"
-       x="897.88068"
+       x="848.24927"
        y="408.36591"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#ffffff;stroke-width:1.5">2026/4/1~</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Noto Sans JP';-inkscape-font-specification:'Noto Sans JP';fill:#ffffff;stroke-width:1.5">2026/10/1~</tspan></text>
   <rect
      style="fill:#000000;stroke:none;stroke-width:9.8589;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.901961"
      id="rect16785"
